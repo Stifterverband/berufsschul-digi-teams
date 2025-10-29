@@ -1,0 +1,23 @@
+---
+title: "Grußwort der DATEV-Stiftung Zukunft"
+title-block-banner: false
+image:  "sprenger.png"
+toc: false
+page-layout: article
+editor_options: 
+  chunk_output_type: console
+citation: false
+---
+
+:::{.column-margin}
+![**Dr. Sebastian Sprenger** <br> Vorstandsmitglied der DATEV- Stiftung Zukunft](sprenger.png)
+:::
+
+   
+Im Zeitalter der Digitalisierung ist Datenkompetenz zu einem essenziellen Element geworden, das den Erfolg von Individuen und Organisationen maßgeblich beeinflusst. Der vorliegende Sammelband "Datenkompetenz" betont einmal mehr die Bedeutung dieses Themas, denn Datenkompetenz als ein Element zukunftsgerichteter (Aus-)Bildung trägt fundamental dazu bei, den Wirtschaftsstandort Deutschland nachhaltig zu stärken.
+
+Die Fähigkeit, Daten nicht nur zu generieren, sondern sie auch zu verstehen, zu analysieren und sinnvoll zu nutzen, ist deshalb von zentraler Bedeutung für unsere Gesellschaft. Angesichts der stetig wachsenden Datenmengen ist es unerlässlich, Menschen zu befähigen, Daten nicht nur technisch zu handhaben, sondern auch kritisch zu hinterfragen und verantwortungsbewusst einzusetzen. Diese Feststellung bietet die Grundlage, weshalb die DATEV-Stiftung Zukunft seit 2019 das Data Literacy Education Netzwerk des Stifterverbands fördert.  
+
+Die DATEV-Stiftung Zukunft hat sich seit Ihrer Gründung 2014 der Förderung von Bildung und Forschung verschrieben. Die Zusammenarbeit mit dem Stifterverband bei diesem Projekt ist für uns eine selbstverständliche Verpflichtung. Gemeinsam setzen wir uns auch künftig gerne dafür ein, Wissen und Kompetenzen im Umgang mit Daten zu vermitteln, um die Chancen der Digitalisierung bestmöglich zu nutzen. Denn wir sind überzeugt, dass durch dieses Projekt nicht nur Fachwissen gefördert wird, sondern auch ein Bewusstsein für die ethischen, gesellschaftlichen und wirtschaftlichen Aspekte in diesem Kontext geschaffen wird.   
+
+Wir danken dem Stifterverband für die Möglichkeit, Teil dieses wegweisenden Projektes zu sein und hoffen, dass die in diesem Werk zusammengefassten Lösungsvorschläge von anderen Hochschulen schnellstmöglich adaptiert werden. 
