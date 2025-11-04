@@ -17,20 +17,15 @@ website:
     right:
       - href: recht/datenschutz.qmd
     left: |
-      [![](/logos/datev_foerder.png){width=50%}
+      [![](/logos/datev_foerder.png){width=30%}
     border: true
 format:
   html:
+    fig-align: center
     page-layout: full
     theme: theme.scss
     toc: true
     toc-location: left
-    citation: 
-      title: "datenkompetent - Beispielhafte Lehrformate und -strategien für die Data Literacy Education an deutschen Hochschulen"
-      editor: 
-        - Henning Koch
-        - Sam Sievers
-      license: CC BY-SA
 link-external-newwindow: true      
 editor: source
 lang: de
