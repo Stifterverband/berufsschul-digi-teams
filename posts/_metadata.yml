@@ -7,13 +7,6 @@ freeze: false
 # Enable banner style title blocks
 title-block-banner: false
 
-#citations
-bibliography: citations.bib
-link-citations: true
-csl:  apa.csl
-nocite: |
-  @*
-
 #table of content
 toc: true
 toc-title: "Inhalt"
