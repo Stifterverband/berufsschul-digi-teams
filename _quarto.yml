@@ -30,3 +30,4 @@ format:
 link-external-newwindow: true      
 editor: source
 lang: de
+bibliography: references.bib
