@@ -1,30 +1,18 @@
 ---
 title: "Berufsschul-Digi-Teams"
 listing:
-  - id: listings
-    contents: posts
-    sort: "author"
-    type: grid
-    categories: true
-    fields: [title, author, categories, image]
-    filter-ui: true
-    page-size: 30
+  contents: posts
+  sort: "author"
+  type: grid
+  categories: true  # Dies aktiviert die klickbaren Filter rechts
+  fields: [title, author, categories, image]
+  filter-ui: true
+  page-size: 30
 ---
 
 
-<!-- Bild mit 0% width erzeugt die zentrierte Ansicht der Kacheln -->
-::: {.column-page}
-![](logos/svlogo.png){ width=0% fig-align="center"}
-:::
+![](logos/svlog.png){width=20% fig-align="center"}
 
-
-:::::: {style="text-align:center"}
-![](logos/svlog.png){ width=20% }
-::::::
- 
-::: {.centered-heading}
-## Erläuternde Einführung 
-:::
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
