@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "c45c65fa"
+  },
+  "about.qmd": {
+    "about.html": "a8afa4ef"
+  },
+  "posts/post_1.qmd": {
+    "post_1.html": "00fb8373"
+  },
+  "posts/post_2.qmd": {
+    "post_2.html": "79d5673c"
+  },
+  "posts/post_1/post_1.qmd": {
+    "post_1.html": "010646c0"
+  },
+  "posts/post_2/post_2.qmd": {
+    "post_2.html": "9df6fc3b"
+  },
+  "posts/post_3/post_3.qmd": {
+    "post_3.html": "044e1bf1"
+  },
+  "posts/LinerarReg/LinearReg.qmd": {
+    "LinearReg.html": "7c5f5ae0"
+  },
+  "posts/MCA/mca.qmd": {
+    "mca.html": "03250798"
+  },
+  "posts/MFA/MFA.qmd": {
+    "MFA.html": "45e96062"
+  }
+}

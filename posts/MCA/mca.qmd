@@ -1,0 +1,9 @@
+---
+title: "Multiple Correspondence Analysis (MCA)"
+format: html
+categories: ['Soziologie', 'Geometrische Datenanalyse', 'MCA', 'Statistik', 'Datenvisualisierung', 'Methodologie', 'Netzwerkanalyse', 'Forschungsdesign', 'Textanalyse', 'Sozialtheorie', 'Computational Social Science']
+---
+
+# Überschrift
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

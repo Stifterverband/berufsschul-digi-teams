@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listings .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listings'] = new List('listing-listings', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -159,16 +159,10 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Auf dieser Seite:</h2>
-   
-  <ul>
-  <li><a href="#erläuternde-einführung" id="toc-erläuternde-einführung" class="nav-link active" data-scroll-target="#erläuternde-einführung">Erläuternde Einführung</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QmlvbG9naWU=">Biologie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QmxlbmRlZCUyMExlYXJuaW5n">Blended Learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2hlbWll">Chemie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWlubGVpdHVuZ18x">Einleitung_1 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWlubGVpdHVuZ18y">Einleitung_2 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWlubGVpdHVuZ18z">Einleitung_3 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2VvbWV0cmlzY2hlJTIwRGF0ZW5hbmFseXNl">Geometrische Datenanalyse <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW50ZXJkaXN6aXBsaW5hcml0JUMzJUE0dA==">Interdisziplinarität <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWF0aGVtYXRpaw==">Mathematik <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TUNB">MCA <span class="quarto-category-count">(2)</span></div><div class="category" data-category="T0VS">OER <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Vm9ya2VubnRuaXNzZSUzQSUyMGtlaW5l">Vorkenntnisse: keine <span class="quarto-category-count">(2)</span></div></div></div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q2hlbWll">Chemie <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q29tcHV0YXRpb25hbCUyMFNvY2lhbCUyMFNjaWVuY2U=">Computational Social Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0ZW52aXN1YWxpc2llcnVuZw==">Datenvisualisierung <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9yc2NodW5nc2Rlc2lnbg==">Forschungsdesign <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2VvbWV0cmlzY2hlJTIwRGF0ZW5hbmFseXNl">Geometrische Datenanalyse <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TGluZWFyZSUyMFJlZ3Jlc3Npb24=">Lineare Regression <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWF0aGVtYXRpaw==">Mathematik <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TUNB">MCA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWV0aG9kb2xvZ2ll">Methodologie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TUZB">MFA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmV0endlcmthbmFseXNl">Netzwerkanalyse <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U296aWFsdGhlb3JpZQ==">Sozialtheorie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U296aW9sb2dpZQ==">Soziologie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RhdGlzdGlr">Statistik <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGV4dGFuYWx5c2U=">Textanalyse <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -189,22 +183,20 @@ window.Quarto = {
 </header>
 
 
-<!-- Bild mit 0% width erzeugt die zentrierte Ansicht der Kacheln -->
-<div class="page-columns page-full">
-<div class="quarto-figure quarto-figure-center page-columns page-full">
-<figure class="figure page-columns page-full">
-<p class="page-columns page-full"><img src="logos/svlogo.png" class="img-fluid quarto-figure quarto-figure-center figure-img column-page" style="width:0.0%"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="logos/svlog.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:20.0%"></p>
 </figure>
 </div>
-</div>
-<div style="text-align:center">
-<p><img src="logos/svlog.png" class="img-fluid" style="width:20.0%"></p>
-</div>
-<section id="erläuternde-einführung" class="level2 centered-heading">
-<h2 class="anchored" data-anchor-id="erläuternde-einführung">Erläuternde Einführung</h2>
-</section>
 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-<div id="listing-listings" class="quarto-listing quarto-listing-container-grid">
+<div id="listings">
+
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="listing-actions-group">
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
@@ -212,98 +204,54 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RWlubGVpdHVuZ18xJTJDRWlubGVpdHVuZ18yJTJDRWlubGVpdHVuZ18z" data-listing-file-modified-sort="1771403664732" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
-<a href="./posts/einleitung/einleitung.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="U296aW9sb2dpZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ01DQSUyQ1N0YXRpc3RpayUyQ0RhdGVudmlzdWFsaXNpZXJ1bmclMkNNZXRob2RvbG9naWUlMkNOZXR6d2Vya2FuYWx5c2UlMkNGb3JzY2h1bmdzZGVzaWduJTJDVGV4dGFuYWx5c2UlMkNTb3ppYWx0aGVvcmllJTJDQ29tcHV0YXRpb25hbCUyMFNvY2lhbCUyMFNjaWVuY2U=" data-listing-file-modified-sort="1771413135382" data-listing-reading-time-sort="1" data-listing-word-count-sort="19">
+<a href="./posts/MCA/mca.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Einleitung
+Multiple Correspondence Analysis (MCA)
 </h5>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('RWlubGVpdHVuZ18x'); return false;">Einleitung_1</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U296aW9sb2dpZQ=='); return false;">Soziologie</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('RWlubGVpdHVuZ18y'); return false;">Einleitung_2</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWlubGVpdHVuZ18z'); return false;">Einleitung_3</div>
-
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Vm9ya2VubnRuaXNzZSUzQSUyMGtlaW5lJTJDT0VSJTJDQmxlbmRlZCUyMExlYXJuaW5n" data-listing-file-modified-sort="1771400212535" data-listing-reading-time-sort="8" data-listing-word-count-sort="1538">
-<a href="./posts/awareness_rallye/rallye.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/awareness_rallye/polyl3.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Die Data Awareness Rallye
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Vm9ya2VubnRuaXNzZSUzQSUyMGtlaW5l'); return false;">Vorkenntnisse: keine</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('T0VS'); return false;">OER</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmxlbmRlZCUyMExlYXJuaW5n'); return false;">Blended Learning</div>
-
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Christina Grieb-Viglialoro, Elske Schönhals, Christina Kläre
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Vm9ya2VubnRuaXNzZSUzQSUyMGtlaW5lJTJDSW50ZXJkaXN6aXBsaW5hcml0JUMzJUE0dCUyQ01hdGhlbWF0aWslMkNNQ0ElMkNCaW9sb2dpZQ==" data-listing-file-modified-sort="1771407519888" data-listing-reading-time-sort="7" data-listing-word-count-sort="1270">
-<a href="./posts/basiskurs_th_koeln/basis.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/basiskurs_th_koeln/square1.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-DaLI-Basiskurs mit Open-Data-Projekt
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Vm9ya2VubnRuaXNzZSUzQSUyMGtlaW5l'); return false;">Vorkenntnisse: keine</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SW50ZXJkaXN6aXBsaW5hcml0JUMzJUE0dA=='); return false;">Interdisziplinarität</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWF0aGVtYXRpaw=='); return false;">Mathematik</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R2VvbWV0cmlzY2hlJTIwRGF0ZW5hbmFseXNl'); return false;">Geometrische Datenanalyse</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('TUNB'); return false;">MCA</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QmlvbG9naWU='); return false;">Biologie</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3RhdGlzdGlr'); return false;">Statistik</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0ZW52aXN1YWxpc2llcnVuZw=='); return false;">Datenvisualisierung</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWV0aG9kb2xvZ2ll'); return false;">Methodologie</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV0endlcmthbmFseXNl'); return false;">Netzwerkanalyse</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9yc2NodW5nc2Rlc2lnbg=='); return false;">Forschungsdesign</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGV4dGFuYWx5c2U='); return false;">Textanalyse</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U296aWFsdGhlb3JpZQ=='); return false;">Sozialtheorie</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29tcHV0YXRpb25hbCUyMFNvY2lhbCUyMFNjaWVuY2U='); return false;">Computational Social Science</div>
 
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
-Juliane Piecha, Konrad U. Förstner, Elisabeth Kaliva, Boris Naujoks, Simone Fühles-Ubach, Philipp Heidkamp
+
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="TWF0aGVtYXRpayUyQ0NoZW1pZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ01DQQ==" data-listing-file-modified-sort="1771407521406" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./posts/aufbau_uar/aufbau.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="TWF0aGVtYXRpayUyQ0NoZW1pZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ01GQQ==" data-listing-file-modified-sort="1771416445001" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
+<a href="./posts/MFA/MFA.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/aufbau_uar/square2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Aufbau_uar
+Multiple Factor Analysis (MFA)
 </h5>
 <div class="listing-categories">
 
@@ -313,7 +261,36 @@ Aufbau_uar
 
 <div class="listing-category" onclick="window.quartoListingCategory('R2VvbWV0cmlzY2hlJTIwRGF0ZW5hbmFseXNl'); return false;">Geometrische Datenanalyse</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('TUNB'); return false;">MCA</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TUZB'); return false;">MFA</div>
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Max Mustermann, Kim Kleimann
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="TWF0aGVtYXRpayUyQ0NoZW1pZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ0xpbmVhcmUlMjBSZWdyZXNzaW9u" data-listing-file-modified-sort="1771413133687" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./posts/LinerarReg/LinearReg.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/LinerarReg/square2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lineare Regression
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWF0aGVtYXRpaw=='); return false;">Mathematik</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q2hlbWll'); return false;">Chemie</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('R2VvbWV0cmlzY2hlJTIwRGF0ZW5hbmFseXNl'); return false;">Geometrische Datenanalyse</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGluZWFyZSUyMFJlZ3Jlc3Npb24='); return false;">Lineare Regression</div>
 
 </div>
 <div class="card-attribution card-text-small start">
@@ -326,12 +303,7 @@ Max Mustermann, Kim Neumann
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div>
-
-
-
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

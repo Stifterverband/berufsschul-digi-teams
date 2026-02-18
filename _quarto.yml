@@ -6,7 +6,6 @@ website:
   title: "Berufsschul-Digi-Teams"
   navbar:
     logo: "/logos/svlog.png"
-
 format:
   html:
     theme: cosmo

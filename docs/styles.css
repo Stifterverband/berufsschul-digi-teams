@@ -1,6 +1,6 @@
 /* css styles */
 /* Nur die Kategorie MCA fett machen */
-.category[data-category="TWF0aGVtYXRpaw=="] {
+.category[data-category="U296aW9sb2dpZQ=="] {
   background-color: #b3c8d3; /* Deine Wunschfarbe */
   padding: 2px 8px;         /* Ein bisschen Platz im Kasten */
   border-radius: 4px;       /* Leicht abgerundete Ecken */
@@ -8,10 +8,47 @@
   display: inline-block;
 }
 
-.category[data-category="QmlvbG9naWU="] {
+.category[data-category="TWF0aGVtYXRpaw=="] {
   background-color: #b3c8d3;
   padding: 2px 8px;
   border-radius: 4px;
   color: #000;
   display: inline-block;
 }
+
+.category[data-category="Q2hlbWll"] {
+  background-color: #b3c8d3;
+  padding: 2px 8px;
+  border-radius: 4px;
+  color: #000;
+  display: inline-block;
+}
+
+a {
+  color: #6896a8;
+}
+
+a:hover {
+  color: #e73f0c;
+}
+
+.sidebar-fg {
+  color: #e73f0c;
+}
+
+/* $white: #fff !default;
+$black: #000 !default;
+$primary:         #6896a8 !default;
+$soft-primary:    #b3c8d3 !default;
+$light-primary:   #e0e8ed !default;
+$blue:            #195365 !default;
+$light-blue:      #8d9ca9 !default;
+$red:             #e73f0c !default;
+$grey:            #b5bfc5 !default;
+$light-grey:      #dae0e3 !default;
+$very-light-grey: #f0f3f4 !default;
+$dark-grey:       #6A6F73 !default;
+$very-dark-grey:  #575757 !default;
+$green:           #AFD700 !default;
+$soft-green:      #aecc53 !default;
+$mint:            #8fbc9e !default; */

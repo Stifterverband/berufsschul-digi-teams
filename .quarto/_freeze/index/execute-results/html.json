@@ -1,0 +1,15 @@
+{
+  "hash": "02037bace75906e0e85fbc745663a5ff",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Berufsschul-Digi-Teams\"\nlisting:\n  contents: posts\n  sort: \"author\"\n  type: grid\n  categories: true  # Dies aktiviert die klickbaren Filter rechts\n  fields: [title, author, categories, image]\n  filter-ui: true\n  page-size: 30\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
