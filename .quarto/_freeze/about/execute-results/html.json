@@ -1,0 +1,15 @@
+{
+  "hash": "b751546ce600a2718007df517cb19f06",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Aufbau_uar\"\nsubtitle: \"Ein guter Untertitel\"\ntitle-block-banner: false\ncategories: ['Mathematik', 'Chemie', 'Geometrische Datenanalyse', 'MCA']\ndescription: 'Kurse Beschreibung des Beitrags'\nauthor: \n  - Max Mustermann\n  - Kim Neumann\nimage:  \"square2.png\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

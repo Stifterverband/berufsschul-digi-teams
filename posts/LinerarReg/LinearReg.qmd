@@ -1,0 +1,13 @@
+---
+title: "Lineare Regression"
+subtitle: "Ein guter Untertitel"
+title-block-banner: false
+categories: ['Mathematik', 'Chemie', 'Geometrische Datenanalyse', 'Lineare Regression']
+description: 'Kurse Beschreibung des Beitrags'
+author: 
+  - Max Mustermann
+  - Kim Neumann
+image:  "square2.png"
+---
+
+blabla
