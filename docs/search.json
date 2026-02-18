@@ -1,52 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Berufsschul-Digi-Teams",
+    "objectID": "posts/test_blog/test_upload_blog.html",
+    "href": "posts/test_blog/test_upload_blog.html",
+    "title": "Probe-Beitrag: Digitale Lernbausteine",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMultiple Correspondence Analysis (MCA)\n\n\n\nSoziologie\n\nGeometrische Datenanalyse\n\nMCA\n\nStatistik\n\nDatenvisualisierung\n\nMethodologie\n\nNetzwerkanalyse\n\nForschungsdesign\n\nTextanalyse\n\nSozialtheorie\n\nComputational Social Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultiple Factor Analysis (MFA)\n\n\n\nMathematik\n\nChemie\n\nGeometrische Datenanalyse\n\nMFA\n\n\n\n\nMax Mustermann, Kim Kleimann\n\n\n\n\n\n\n\n\n\n\n\n\n\nLineare Regression\n\n\n\nMathematik\n\nChemie\n\nGeometrische Datenanalyse\n\nLineare Regression\n\n\n\n\nMax Mustermann, Kim Neumann\n\n\n\n\n\n\nNo matching items"
+    "text": "Dieser Probe-Beitrag zeigt eine moegliche Struktur fuer kurze Unterrichts- oder Projektberichte. Er ist bewusst kompakt gehalten und kann spaeter erweitert werden.\n\n\n\nKlarer Titel und kurze Einleitung\nKonkrete Schritte und Materialien\nKurzes Fazit mit Ausblick\n\n\n\n\n\nEinstieg mit Leitfrage und kurzem Impuls.\nGruppenarbeit mit Arbeitsblatt oder Padlet.\nErgebnissicherung im Plenum.\n\n\n\n\n\nArbeitsblatt (PDF)\nWhiteboard oder digitales Board\nBeispieldateien im Kursordner\n\n\n\n\nDie Struktur funktioniert gut, wenn die Aufgaben klein und klar sind. Im naechsten Schritt koennen Reflexionsfragen oder eine Mini-Umfrage ergaenzt werden."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Aufbau_uar",
+    "objectID": "posts/test_blog/test_upload_blog.html#ziel",
+    "href": "posts/test_blog/test_upload_blog.html#ziel",
+    "title": "Probe-Beitrag: Digitale Lernbausteine",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Klarer Titel und kurze Einleitung\nKonkrete Schritte und Materialien\nKurzes Fazit mit Ausblick"
   },
   {
-    "objectID": "posts/post_1.html",
-    "href": "posts/post_1.html",
-    "title": "Aufbau_uar",
+    "objectID": "posts/test_blog/test_upload_blog.html#ablauf",
+    "href": "posts/test_blog/test_upload_blog.html#ablauf",
+    "title": "Probe-Beitrag: Digitale Lernbausteine",
     "section": "",
-    "text": "blabla"
+    "text": "Einstieg mit Leitfrage und kurzem Impuls.\nGruppenarbeit mit Arbeitsblatt oder Padlet.\nErgebnissicherung im Plenum."
   },
   {
-    "objectID": "posts/post_1/post_1.html",
-    "href": "posts/post_1/post_1.html",
-    "title": "Post 1",
+    "objectID": "posts/test_blog/test_upload_blog.html#materialien",
+    "href": "posts/test_blog/test_upload_blog.html#materialien",
+    "title": "Probe-Beitrag: Digitale Lernbausteine",
     "section": "",
-    "text": "blabla"
+    "text": "Arbeitsblatt (PDF)\nWhiteboard oder digitales Board\nBeispieldateien im Kursordner"
   },
   {
-    "objectID": "posts/post_2/post_2.html",
-    "href": "posts/post_2/post_2.html",
-    "title": "post_2",
+    "objectID": "posts/test_blog/test_upload_blog.html#fazit",
+    "href": "posts/test_blog/test_upload_blog.html#fazit",
+    "title": "Probe-Beitrag: Digitale Lernbausteine",
     "section": "",
-    "text": "Überschrift\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "objectID": "posts/post_3/post_3.html",
-    "href": "posts/post_3/post_3.html",
-    "title": "post_3",
-    "section": "",
-    "text": "Überschrift\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "objectID": "posts/MCA/mca.html",
-    "href": "posts/MCA/mca.html",
-    "title": "Multiple Correspondence Analysis (MCA)",
-    "section": "",
-    "text": "Überschrift\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "text": "Die Struktur funktioniert gut, wenn die Aufgaben klein und klar sind. Im naechsten Schritt koennen Reflexionsfragen oder eine Mini-Umfrage ergaenzt werden."
   },
   {
     "objectID": "posts/LinerarReg/LinearReg.html",
@@ -56,10 +42,24 @@
     "text": "blabla"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Berufsschul-Digi-Teams",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMultiple Correspondence Analysis (MCA)\n\n\n\nSoziologie\n\nGeometrische Datenanalyse\n\nMCA\n\nStatistik\n\nDatenvisualisierung\n\nMethodologie\n\nNetzwerkanalyse\n\nForschungsdesign\n\nTextanalyse\n\nSozialtheorie\n\nComputational Social Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProbe-Beitrag: Digitale Lernbausteine\n\n\n\nDidaktik\n\nMedienbildung\n\nPraxis\n\n\n\n\nMax Mustermann\n\n\n\n\n\n\n\n\n\n\n\nMultiple Factor Analysis (MFA)\n\n\n\nMathematik\n\nChemie\n\nGeometrische Datenanalyse\n\nMFA\n\n\n\n\nMax Mustermann, Kim Kleimann\n\n\n\n\n\n\n\n\n\n\n\n\n\nLineare Regression\n\n\n\nMathematik\n\nChemie\n\nGeometrische Datenanalyse\n\nLineare Regression\n\n\n\n\nMax Mustermann, Kim Neumann\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/MFA/MFA.html",
     "href": "posts/MFA/MFA.html",
     "title": "Multiple Factor Analysis (MFA)",
     "section": "",
     "text": "Überschrift\nBeispielhafte Zitation im Text (Mustermann & Kleimann, 2020).\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n\nReferences\n\nMustermann, M., & Kleimann, K. (2020). Multiple factor analysis in practice. Journal of Applied Multivariate Methods, 12(3), 145–162. https://doi.org/10.1234/jamm.2020.12345"
+  },
+  {
+    "objectID": "posts/MCA/mca.html",
+    "href": "posts/MCA/mca.html",
+    "title": "Multiple Correspondence Analysis (MCA)",
+    "section": "",
+    "text": "Überschrift\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   }
 ]

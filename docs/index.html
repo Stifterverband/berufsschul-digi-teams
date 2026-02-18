@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-author','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -160,7 +160,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q2hlbWll">Chemie <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q29tcHV0YXRpb25hbCUyMFNvY2lhbCUyMFNjaWVuY2U=">Computational Social Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0ZW52aXN1YWxpc2llcnVuZw==">Datenvisualisierung <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9yc2NodW5nc2Rlc2lnbg==">Forschungsdesign <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2VvbWV0cmlzY2hlJTIwRGF0ZW5hbmFseXNl">Geometrische Datenanalyse <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TGluZWFyZSUyMFJlZ3Jlc3Npb24=">Lineare Regression <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWF0aGVtYXRpaw==">Mathematik <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TUNB">MCA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWV0aG9kb2xvZ2ll">Methodologie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TUZB">MFA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmV0endlcmthbmFseXNl">Netzwerkanalyse <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U296aWFsdGhlb3JpZQ==">Sozialtheorie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U296aW9sb2dpZQ==">Soziologie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RhdGlzdGlr">Statistik <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGV4dGFuYWx5c2U=">Textanalyse <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q2hlbWll">Chemie <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q29tcHV0YXRpb25hbCUyMFNvY2lhbCUyMFNjaWVuY2U=">Computational Social Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0ZW52aXN1YWxpc2llcnVuZw==">Datenvisualisierung <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGlkYWt0aWs=">Didaktik <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9yc2NodW5nc2Rlc2lnbg==">Forschungsdesign <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2VvbWV0cmlzY2hlJTIwRGF0ZW5hbmFseXNl">Geometrische Datenanalyse <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TGluZWFyZSUyMFJlZ3Jlc3Npb24=">Lineare Regression <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWF0aGVtYXRpaw==">Mathematik <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TUNB">MCA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWVkaWVuYmlsZHVuZw==">Medienbildung <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWV0aG9kb2xvZ2ll">Methodologie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TUZB">MFA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmV0endlcmthbmFseXNl">Netzwerkanalyse <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJheGlz">Praxis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U296aWFsdGhlb3JpZQ==">Sozialtheorie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U296aW9sb2dpZQ==">Soziologie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RhdGlzdGlr">Statistik <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGV4dGFuYWx5c2U=">Textanalyse <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -204,7 +204,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="U296aW9sb2dpZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ01DQSUyQ1N0YXRpc3RpayUyQ0RhdGVudmlzdWFsaXNpZXJ1bmclMkNNZXRob2RvbG9naWUlMkNOZXR6d2Vya2FuYWx5c2UlMkNGb3JzY2h1bmdzZGVzaWduJTJDVGV4dGFuYWx5c2UlMkNTb3ppYWx0aGVvcmllJTJDQ29tcHV0YXRpb25hbCUyMFNvY2lhbCUyMFNjaWVuY2U=" data-listing-file-modified-sort="1771413135382" data-listing-reading-time-sort="1" data-listing-word-count-sort="19">
+<div class="g-col-1" data-index="0" data-categories="U296aW9sb2dpZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ01DQSUyQ1N0YXRpc3RpayUyQ0RhdGVudmlzdWFsaXNpZXJ1bmclMkNNZXRob2RvbG9naWUlMkNOZXR6d2Vya2FuYWx5c2UlMkNGb3JzY2h1bmdzZGVzaWduJTJDVGV4dGFuYWx5c2UlMkNTb3ppYWx0aGVvcmllJTJDQ29tcHV0YXRpb25hbCUyMFNvY2lhbCUyMFNjaWVuY2U=" data-listing-file-modified-sort="1771418356480" data-listing-reading-time-sort="1" data-listing-word-count-sort="19">
 <a href="./posts/MCA/mca.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
@@ -245,7 +245,32 @@ Multiple Correspondence Analysis (MCA)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TWF0aGVtYXRpayUyQ0NoZW1pZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ01GQQ==" data-listing-file-modified-sort="1771416445001" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
+<div class="g-col-1" data-index="1" data-categories="RGlkYWt0aWslMkNNZWRpZW5iaWxkdW5nJTJDUHJheGlz" data-listing-date-sort="1771372800000" data-listing-file-modified-sort="1771418356480" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
+<a href="./posts/test_blog/test_upload_blog.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Probe-Beitrag: Digitale Lernbausteine
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlkYWt0aWs='); return false;">Didaktik</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWVuYmlsZHVuZw=='); return false;">Medienbildung</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJheGlz'); return false;">Praxis</div>
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Max Mustermann
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="TWF0aGVtYXRpayUyQ0NoZW1pZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ01GQQ==" data-listing-file-modified-sort="1771418356480" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
 <a href="./posts/MFA/MFA.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
@@ -272,7 +297,7 @@ Max Mustermann, Kim Kleimann
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="TWF0aGVtYXRpayUyQ0NoZW1pZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ0xpbmVhcmUlMjBSZWdyZXNzaW9u" data-listing-file-modified-sort="1771413133687" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="3" data-categories="TWF0aGVtYXRpayUyQ0NoZW1pZSUyQ0dlb21ldHJpc2NoZSUyMERhdGVuYW5hbHlzZSUyQ0xpbmVhcmUlMjBSZWdyZXNzaW9u" data-listing-file-modified-sort="1771418356480" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="./posts/LinerarReg/LinearReg.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
