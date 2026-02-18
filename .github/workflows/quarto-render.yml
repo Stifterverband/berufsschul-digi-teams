@@ -1,0 +1,41 @@
+name: Render Quarto site
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "posts/**"
+      - "_quarto.yml"
+      - "index.qmd"
+      - "styles.css"
+      - "references.bib"
+      - "apa.csl"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render --output-dir docs
+
+      - name: Commit rendered site
+        run: |
+          if [[ -n "$(git status --porcelain docs)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs
+            git commit -m "Render Quarto site"
+            git push
+          else
+            echo "No changes in docs/ to commit."
+          fi
