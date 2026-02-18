@@ -2,8 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/awareness_rallye/rallye.html",
       "/posts/einleitung/einleitung.html",
+      "/posts/awareness_rallye/rallye.html",
       "/posts/basiskurs_th_koeln/basis.html",
       "/posts/aufbau_uar/aufbau.html"
     ]

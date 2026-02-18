@@ -1,32 +1,17 @@
 project:
   type: website
-  output-dir: docs
+
 website:
-  title: "Übersicht"
-  favicon: logos/svlog.png
-  cookie-consent: 
-    lang: de
-    type: express
-    style: simple
-    prefs-text: Cookie-Einstellungen
+  title: "Berufsschul-Digi-Teams"
   navbar:
-    logo: "/logos/sv_log_weiss.png"
-  sidebar: false
-  page-footer:
-    center: 
-      - href: recht/impressum.qmd
-    right:
-      - href: recht/datenschutz.qmd
-    left: |
-      [![](/logos/datev_foerder.png){width=30%}
-    border: true
+    logo: "/logos/svlog.png"
+
 format:
   html:
-    fig-align: center
-    page-layout: full
-    theme: theme.scss
+    theme: cosmo
+    css: styles.css
     toc: true
-    toc-location: left
-link-external-newwindow: true      
-editor: source
-lang: de
+    toc-title: "Auf dieser Seite:"
+
+editor: visual
+

@@ -1,16 +1,32 @@
 ---
 title: "Berufsschul-Digi-Teams"
+subtitle: ""
+image: logo/svlog.png
 listing:
   - id: listings
     contents: posts
     sort: "author"
     type: grid
-    categories: true
+    categories: numbered
     fields: [title, author, categories, image]
     filter-ui: true
     page-size: 30
+page-layout: article
+title-block-banner: false
+format:
+  html: 
+    standalone: true
+    toc: false 
+    license: CC BY-SA
+    include-in-header:
+      text: |
+        <style>
+        #title-block-header.quarto-title-block.default .quarto-title .title {
+          text-align: center !important;
+        }
+        </style>
+appendix-style: none
 ---
-
 
 <!-- Bild mit 0% width erzeugt die zentrierte Ansicht der Kacheln -->
 ::: {.column-page}
