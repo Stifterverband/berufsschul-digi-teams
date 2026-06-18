@@ -102,8 +102,7 @@ Die Reflexion des individuellen Lernprozesses der Studierenden ist kontinuierlic
 
 #### Aufbau des Moduls
 
-
-
+![Modulverlauf](modulverlauf.png)
 *Abbildung 1: Modulverlauf*
 
 ---
@@ -184,10 +183,12 @@ Derda, M. & Lohse, C. (2026, in Vorbereitung): Future Class - Ein auf Kooperatio
 ---
 
 ### Kontakt
+![Foto1](Foto1.jpg)
 **Dr. Mareen Derda**  
 _Geschäftsführung der School of Education der Technischen Universität Berlin_  
 mareen.derda@tu-berlin.de  
 
+![Foto2](Foto2.jpg)
 **Dr. Carolin Lohse**  
 _Fachgebiet Fachdidaktik der Technik_  
 c.lohse@tu-berlin.de  
