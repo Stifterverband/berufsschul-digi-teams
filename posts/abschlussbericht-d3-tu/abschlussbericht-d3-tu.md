@@ -182,11 +182,12 @@ Derda, M. & Lohse, C. (2026, in Vorbereitung): Future Class - Ein auf Kooperatio
 
 ---
 
-### Kontakt
+### Kontakt              
 ![Foto1](Foto1.jpg)
 **Dr. Mareen Derda**  
 _Geschäftsführung der School of Education der Technischen Universität Berlin_  
 mareen.derda@tu-berlin.de  
+
 
 ![Foto2](Foto2.jpg)
 **Dr. Carolin Lohse**  
