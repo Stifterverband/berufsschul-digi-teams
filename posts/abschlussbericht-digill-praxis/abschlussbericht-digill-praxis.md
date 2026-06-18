@@ -82,6 +82,9 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 
 `# Hinweis: Bilder zum Einfügen zu dieser Passage`
 
+![Foto_Tafelbild](Foto_Tafelbild.jpg)
+
+
 - https://seafile.rlp.net/seafhttp/f/b5b4e8c279e74f6db4b7/?op=view  
 - https://seafile.rlp.net/seafhttp/f/eb8a4f0051904c90ab43/?op=view  
 - https://seafile.rlp.net/seafhttp/f/6b03c19a087c47a2a295/?op=view  
