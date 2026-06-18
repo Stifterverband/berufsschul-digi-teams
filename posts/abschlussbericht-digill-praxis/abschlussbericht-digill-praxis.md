@@ -84,7 +84,7 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 
 ![Foto2](Foto2.jpg)
 
-![Foto3](Foto2.jpg)
+![Foto3](Foto3.jpg)
  
 (Bilder: RPTU/van Waveren)
 
