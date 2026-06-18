@@ -81,11 +81,8 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - Multimediale Aufbereitung von Lerninhalten  
 
 ![Foto_Tafelbild](Foto_Tafelbild.jpg)
-
 ![Foto2](Foto2.jpg)
-
 ![Foto3](Foto3.jpg)
- 
 (Bilder: RPTU/van Waveren)
 
 ---
@@ -104,8 +101,7 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - Fehlerhafte SPS-Steuerung  
 - Förderung der Diagnosekompetenz  
 
-`# Hinweis: Bild zum Einfügen`
-- https://seafile.rlp.net/seafhttp/f/9cf69a60d149449f81d4/?op=view  
+![Foto4](Foto4.jpg)
 
 ---
 
@@ -114,8 +110,7 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - Pneumatik-Aufgaben  
 - Eye-Tracking-Studien  
 
-`# Hinweis: Bild zum Einfügen`
-- https://seafile.rlp.net/seafhttp/f/71c1379fc42e417c9779/?op=view  
+![Bild5](Bild5.jpg) 
 
 ---
 
@@ -148,9 +143,8 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 4. Videoanalyse  
 5. Reflexion mit Beratungskarten  
 
-`# Hinweis: Bilder`
-- https://seafile.rlp.net/seafhttp/f/6fe2b5c120ac41a8af03/?op=view  
-- https://seafile.rlp.net/seafhttp/f/55a0049d508c4aba841f/?op=view  
+![Bild6](Bild6.jpg)  
+![BNT-Fernlernszenario_7](BNT-Fernlernszenario_7.jpg) 
 
 ---
 
@@ -163,9 +157,8 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - IP-Adressen vergeben  
 - Sicherheitsmaßnahmen  
 
-`# Hinweis: Bilder`
-- https://seafile.rlp.net/seafhttp/f/5128e47b3d734a47b0cc/?op=view  
-- https://seafile.rlp.net/seafhttp/f/046164aaa99248929ba8/?op=view  
+![IT1_8](IT1_8.jpg) 
+![IT1_9](IT1_9.jpg) 
 
 ---
 
