@@ -101,7 +101,7 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - Fehlerhafte SPS-Steuerung  
 - Förderung der Diagnosekompetenz  
 
-![Foto4](Foto4.jpg)
+![Foto4](Foto4.png)
 
 ---
 
@@ -110,7 +110,7 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - Pneumatik-Aufgaben  
 - Eye-Tracking-Studien  
 
-![Bild5](Bild5.jpg) 
+![Bild5](Bild5.png) 
 
 ---
 
@@ -143,8 +143,8 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 4. Videoanalyse  
 5. Reflexion mit Beratungskarten  
 
-![Bild6](Bild6.jpg)  
-![BNT-Fernlernszenario_7](BNT-Fernlernszenario_7.jpg) 
+![Bild6](Bild6.png)  
+![BNT-Fernlernszenario_7](BNT-Fernlernszenario_7.png) 
 
 ---
 
