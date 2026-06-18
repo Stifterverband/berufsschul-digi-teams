@@ -158,7 +158,7 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - Sicherheitsmaßnahmen  
 
 ![IT1_8](IT1_8.jpg) 
-![IT1_9](IT1_9.jpg) 
+![IT1_9](IT2_9.jpg) 
 
 ---
 
