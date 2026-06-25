@@ -81,7 +81,9 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - Multimediale Aufbereitung von Lerninhalten  
 
 ![Foto_Tafelbild](Foto_Tafelbild.jpg)
+
 ![Foto2](Foto2.jpg)
+
 ![Foto3](Foto3.jpg)
 (Bilder: RPTU/van Waveren)
 
@@ -143,7 +145,8 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 4. Videoanalyse  
 5. Reflexion mit Beratungskarten  
 
-![Bild6](Bild6.png)  
+![Bild6](Bild6.png)
+
 ![BNT-Fernlernszenario_7](BNT-Fernlernszenario_7.png) 
 
 ---
@@ -157,7 +160,8 @@ Im Masterstudium (Elektrotechnik, Metalltechnik, Informatik) wurden Lehrgelegenh
 - IP-Adressen vergeben  
 - Sicherheitsmaßnahmen  
 
-![IT1_8](IT1_8.jpg) 
+![IT1_8](IT1_8.jpg)
+
 ![IT1_9](IT2_9.jpg) 
 
 ---
