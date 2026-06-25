@@ -116,11 +116,12 @@ Die eigens für diesen Lernträger entwickelte Kamera-Software löst zusammen mi
 
 Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL6001; M5Stack UnitV2-M12; UART-RS232 Transceiver; D-Sub-15-Kabel (Buchse); 24V-Netzteil; PC inkl. TwinCAT XAE Shell und Runtime (mit kostenlosen, unbegrenzt erneuerbaren 7-Tages-Lizenzen).
 
-
-<p>
-  <img src="2_Foto_Foerderband_mit_KI-Kamera_ohne_Hintergrund.png" width="49%" style="display:inline-block;">
-  <img src="2_1_Foto_Foerderband_und_Busskoppler_ohne_Hintergrund.png" width="49%" style="display:inline-block;">
-</p>
+<table>
+  <tr>
+    <td><img src="2_Foto_Foerderband_mit_KI-Kamera_ohne_Hintergrund.png" width="100%"></td>
+    <td><img src="2_1_Foto_Foerderband_und_Busskoppler_ohne_Hintergrund.png" width="100%"></td>
+  </tr>
+</table>
 
 *Abbildung 2 Aufbau der Automatisierungstechnik. Links: Festo-Förderband mit KI-Kamera. Rechts: Gesamtaufbau zusätzlich mit Buskoppler und Transceiver*
 
