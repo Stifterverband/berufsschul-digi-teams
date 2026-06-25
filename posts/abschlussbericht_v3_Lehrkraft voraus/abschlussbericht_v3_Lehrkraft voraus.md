@@ -118,7 +118,7 @@ Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL
 
 
 <p>
-  <imgto_foerderband_mit_ki_kamera_ohne_hintergrund.png
+  <imgto_2_foto_foerderband_mit_ki_kamera_ohne_hintergrund.png
   2_1_foto_foerderband_und_busskoppler_ohne_hintergrund.png
 </p>
 
