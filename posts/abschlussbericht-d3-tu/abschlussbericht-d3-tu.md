@@ -148,10 +148,8 @@ Derda, M. & Blömer, L. (2026, in Druck): Future Class – Praxisorientierte Ent
 
 Derda, M. & Lohse, C. (2026, in Vorbereitung): Future Class - Ein auf Kooperation basierendes Lehrkonzept in der ersten Phase der gewerblich-technischen Lehrkräftebildung. In W. Reichwein & C. Lohse (Hrsg.), _BAG._ wbv Verlag.
 
----
 
 ## Kontakt              
-
 ![](Foto1.jpg)
 
 **Dr. Mareen Derda**  
