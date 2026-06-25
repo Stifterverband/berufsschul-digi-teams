@@ -49,7 +49,9 @@ Die gehaltene Unterrichtsstunde wurde videografiert und im Anschluss digital ges
 ![](BNT-Fernlernszenario_7.png)
 (BNT/Hüster)
 
+
 Im Rahmen der Entwicklung von Lernsituationen – curricular unter anderem in der Lehrveranstaltung „Vom Lernfeld zur Lernsituation“ verankert – entstanden für den Unterricht teilweise komplexe Lehr-Lernarrangements, beispielsweise zur Förderung der Fehlerdiagnosekompetenz von Schüler*innen im Bereich der Netzwerktechnik. Hierfür diente der schrittweise Aufbau eines Computernetzwerks als exemplarische Lernsituation. Die Lernenden wurden dabei zum fachgerechten Verlegen und Anschließen von Netzwerkkabeln, zum Einrichten und Konfigurieren von Routern und Switches sowie zur Vergabe von IP-Adressen befähigt.
+
 
 ![](IT1_8.jpg)
 
@@ -69,13 +71,17 @@ Für eine flächendeckende Unterrichtsversorgung sowie für die Gestaltung koope
 
 Die am Studienseminar eingesetzten Beratungskarten für die Reflexion von Unterricht:
 -	https://t1p.de/Beratungskarten2026
+-	
 Die Software zur Reflexion der aufgezeichneten Unterrichtsstunden wird von eGroupware angeboten:
 -	https://www.vidoteach.de/de/
+-	
 Die Aufzeichnung der Stunden erfolgte mit dem Swivl CX
 -	https://www.swivl.com/robot/
+-	
 Die Software Factory I/O, mit der der Prototyp zur Fehlerdiagnose entwickelt wurde:
 -	https://factoryio.com/siemens-edition
-Der entwickelte theoretische Rahmen, um digitalisierungsbezogene Kompetenzen von (angehenden) Lehrkräften im Bereich Technik in der Progression in einem konzeptionellen Rahmen zu adressieren: 
+
+Der entwickelte theoretische Rahmen, um digitalisierungsbezogene Kompetenzen von (angehenden) Lehrkräften im Bereich Technik in der Progression in einem konzeptionellen Rahmen zu adressieren:
 -	https://doi.org/10.18419/opus-16369
 
 ---
