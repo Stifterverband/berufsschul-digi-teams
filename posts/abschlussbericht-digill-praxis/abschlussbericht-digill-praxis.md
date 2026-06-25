@@ -16,23 +16,23 @@ Zu diesem Zweck kooperierten die Arbeitsgruppe Fachdidaktik in der Technik, das 
 Im Rahmen einer Lehrveranstaltung im Masterstudium der Fachrichtungen Elektrotechnik, Metalltechnik sowie Informatik/Informationstechnik wurden Gelegenheiten entwickelt und umgesetzt, die den Einbezug digitaler Medien in die fachdidaktische Gestaltung von Lehr-Lernsequenzen förderten.
 Dabei nutzten die Studierenden einerseits die Möglichkeit, sich grundlegend mit dem Einsatz digitaler Medien – auf den Abbildungen exemplarisch am Beispiel des Smartboards dargestellt – vertraut zu machen. Dabei setzten sie sich u.a. auch mit der fachdidaktisch begründeten Aufbereitung von Materialien, z.B. in unterschiedlichen Repräsentationsformen auseinander (vgl. Kürschner, Schnotz & Eid, 2007; Mayer, 2024).  
 
-![Foto_Tafelbild](Foto_Tafelbild.jpg)
+![](Foto_Tafelbild.jpg)
 
-![Foto2](Foto2.jpg)
+![](Foto2.jpg)
 
-![Foto3](Foto3.jpg)
+![](Foto3.jpg)
 (Bilder: RPTU/van Waveren)
 
 Für enaktive Unterrichtseinstiege (Bruner, 1988) wurden beispielsweise CAD-basierte Lernarrangements entwickelt, die mithilfe eines Lasercutters umgesetzt wurden. Diese können perspektivisch auch in Ferien- oder Schüler*innenkursen zur Förderung des Interesses an MINT-Themen eingesetzt werden.
 
 Aufgrund der zentralen Bedeutung der Problemorientierung im berufsbildenden Unterricht wurden darüber hinaus ergänzende Szenarien entwickelt. So entstand zur Förderung der Fehlerdiagnosekompetenz ein Simulationsprototyp eines automatisierten Warenhauses in Factory I/O, in dessen SPS-Steuerung gezielt fehlerbehaftete Umsetzungen implementiert wurden.
 
-![Foto4](Foto4.png)
+![](Foto4.png)
 (erstellt mit Factory I/O)
 
 In flankierenden Abschlussarbeiten wurden hierzu ergänzende Aufgabenstellungen entwickelt, die sich vertiefend mit dem Problemlöseprozess am Beispiel pneumatischer Systeme befassten und die Bearbeitungsprozesse mittels Eye-Tracking untersuchten (Beitrag in Vorbereitung).
 
-![Bild5](Bild5.png) 
+![](Bild5.png) 
 (RPTU/Schüchel)
 
 Ausgehend vom inzwischen veröffentlichten DIKOLAT-Kompetenzmodell standen insbesondere die Kompetenzbereiche Kommunikation und Kollaboration sowie Visualisierung und Präsentation im Zentrum des universitären Abschnitts des Projekts DIGILL@Praxis. 
@@ -43,21 +43,20 @@ Das Vorhaben DIGILL@Praxis verfolgte das Ziel, phasenübergreifend Gelegenheiten
 Im Rahmen der Lehrveranstaltung „Unterrichtsreflexion“ im Masterstudium für das Lehramt an berufsbildenden Schulen wurden die Studierenden zunächst an der Universität in die kriteriengeleitete Beobachtung von Unterricht eingeführt. Anschließend wurde in Kooperation mit dem Studienseminar ein Unterrichtsbesuch am Seminar vorbereitet und gemeinsam mit Referendar*innen sowie den Studierenden durchgeführt.
 Die gehaltene Unterrichtsstunde wurde videografiert und im Anschluss digital gestützt auf Grundlage der Beratungskarten (vgl. Abschnitt „Zum Mitnehmen“) reflektiert.
 
-![Bild6](Bild6.png)
+![](Bild6.png)
 (RPTU/van Waveren)
 
-![BNT-Fernlernszenario_7](BNT-Fernlernszenario_7.png)
+![](BNT-Fernlernszenario_7.png)
 (BNT/Hüster)
 
 Im Rahmen der Entwicklung von Lernsituationen – curricular unter anderem in der Lehrveranstaltung „Vom Lernfeld zur Lernsituation“ verankert – entstanden für den Unterricht teilweise komplexe Lehr-Lernarrangements, beispielsweise zur Förderung der Fehlerdiagnosekompetenz von Schüler*innen im Bereich der Netzwerktechnik. Hierfür diente der schrittweise Aufbau eines Computernetzwerks als exemplarische Lernsituation. Die Lernenden wurden dabei zum fachgerechten Verlegen und Anschließen von Netzwerkkabeln, zum Einrichten und Konfigurieren von Routern und Switches sowie zur Vergabe von IP-Adressen befähigt.
 
-![IT1_8](IT1_8.jpg)
+![](IT1_8.jpg)
 
-![IT1_9](IT2_9.jpg)
+![](IT2_9.jpg)
 (Bilder: BBS1/Braese)
 
 Die Konfiguration über die Kommandozeile sowie die Umsetzung grundlegender Sicherheitsmaßnahmen boten darüber hinaus die Möglichkeit, eigene Kompetenzen in den DIKOLAT-Bereichen „Datenverarbeitung“ sowie „Messwert- und Datenerfassung“ einzuüben und anzuwenden.
-
 
 ## Zum Mitnehmen
 Das Vorhaben insgesamt sowie die Austausche im Digi-Teams-Netzwerk haben an der RPTU eine Reihe von Prozessen vorangetrieben, die bereits in Vorgängerprojekten angelegt waren, deren Umsetzung jedoch ohne die Projektförderung nicht oder zumindest nicht in vergleichbarer Geschwindigkeit möglich gewesen wäre.
@@ -67,7 +66,6 @@ Die Arbeitsgruppe „Kohärenz der Phasen“, die im Umfeld der Berufsschul-Digi
 Das Vorhaben DIGILL@Praxis wurde im Modul „Vertiefung Fachdidaktik“ des Masterstudiengangs Lehramt an berufsbildenden Schulen an der RPTU curricular verankert. Dadurch wurde einerseits die Anrechenbarkeit auf den Studienverlauf der teilnehmenden Studierenden sichergestellt und andererseits die Fortführung der Projektinhalte über die Förderlaufzeit hinaus ermöglicht. Die Lehrveranstaltung „Unterrichtsreflexion“ profitiert dabei unmittelbar von der Möglichkeit, authentische Unterrichtssituationen in die universitäre Lehre einzubeziehen und praxisnahe Reflexionsanlässe zum Gegenstand der Seminardiskussionen zu machen.
 Wenig überraschend, für das Projekt jedoch dennoch bedeutsam, sind die kleinen Kohorten in den gewerblich-technischen Fachrichtungen. Diese ermöglichten einerseits einen intensiven Austausch mit den Studierenden, führten andererseits jedoch auch zu einer vergleichsweise hohen Verantwortungsübernahme durch die Einzelnen. So konnten beispielsweise bei der Entwicklung der Unterrichtsszenarien Aufgaben nur eingeschränkt arbeitsteilig organisiert werden.
 Für eine flächendeckende Unterrichtsversorgung sowie für die Gestaltung kooperativer Lernprozesse erscheinen größere Kohorten innerhalb eines Jahrgangs grundsätzlich vorteilhaft. In Rheinland-Pfalz finden derzeit erste Abstimmungsprozesse mit der Bildungsadministration statt, um Möglichkeiten für einen Quereinstiegsmaster zu schaffen, der keinen Bachelor of Education als Zugangsvoraussetzung erfordert, zugleich jedoch den Weg zum Ersten Staatsexamen eröffnet.
-
 
 Die am Studienseminar eingesetzten Beratungskarten für die Reflexion von Unterricht:
 -	https://t1p.de/Beratungskarten2026
