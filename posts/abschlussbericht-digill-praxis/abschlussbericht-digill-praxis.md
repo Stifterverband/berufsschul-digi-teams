@@ -71,13 +71,13 @@ Für eine flächendeckende Unterrichtsversorgung sowie für die Gestaltung koope
 
 Die am Studienseminar eingesetzten Beratungskarten für die Reflexion von Unterricht:
 -	https://t1p.de/Beratungskarten2026
--	
+
 Die Software zur Reflexion der aufgezeichneten Unterrichtsstunden wird von eGroupware angeboten:
 -	https://www.vidoteach.de/de/
--	
+
 Die Aufzeichnung der Stunden erfolgte mit dem Swivl CX
 -	https://www.swivl.com/robot/
--	
+
 Die Software Factory I/O, mit der der Prototyp zur Fehlerdiagnose entwickelt wurde:
 -	https://factoryio.com/siemens-edition
 
