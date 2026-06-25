@@ -17,7 +17,7 @@ Die Integration von KI in die berufliche Lehramtsausbildung (Master of Education
 Das Projekt befindet sich genau an dieser Schnittstelle und entwickelt ein kooperatives Seminarkonzept, in dem Studierende KI-bezogene Lernsituationen konzipieren, an einer beruflichen Schule erproben und wissenschaftlich fundiert reflektieren.
 
 ## 2.Beteiligte Projektpartner
-Das Projekt zeichnet sich durch eine enge Verzahnung zwischen universitärer Lehrkräftebildung, schulischer Praxis und industrienahen Technologien aus. 
+Das Projekt zeichnet sich durch eine enge Verzahnung zwischen universitärer Lehrkräftebildung, schulischer Praxis und industrienahen Technologien aus.
 
 **Universität Paderborn**
   •	Dr.-Ing. Mats Vernholz
