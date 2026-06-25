@@ -93,7 +93,7 @@ Der Aufbau ist so gestaltet, dass er von den SchülerInnen im Unterricht als off
 
   • Die Oberfläche bietet den SchülerInnen zudem die Möglichkeit, die Konfidenzschwelle und     den Glättungsfaktor live anzupassen. Auf diese Weise können sie im Unterricht testen,       wie sich softwareseitige Filterungen direkt auf die Sortierung der Anlage auswirken.
 
-Bild 1
+![](1_Bild_KI-Kamera-Oberfläche.png)
 *(Abbildung 1 Oberfläche der eigens entwickelten Software für die KI-Kamera (erreichbar unter der IP-Adresse der Kamera)*
 
 Für das Modelltraining hat sich die Plattform *Edge Impulse* als besonders geeignet erwiesen. Neben einer recht strukturierten Oberfläche hat sie zwei besondere Vorteile:
@@ -116,6 +116,7 @@ Die eigens für diesen Lernträger entwickelte Kamera-Software löst zusammen mi
 
 Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL6001; M5Stack UnitV2-M12; UART-RS232 Transceiver; D-Sub-15-Kabel (Buchse); 24V-Netzteil; PC inkl. TwinCAT XAE Shell und Runtime (mit kostenlosen, unbegrenzt erneuerbaren 7-Tages-Lizenzen).
 
+![](2_Foto_Förderband mit KI-Kamera_ohne Hintergrund.png) ![](2-1_Foto_Förderband und Busskoppler_ohne Hintergrund.png)
 *Abbildung 2 Aufbau der Automatisierungstechnik. Links: Festo-Förderband mit KI-Kamera. Rechts: Gesamtaufbau zusätzlich mit Buskoppler und Transceiver*
 
 ## 5.Seminarkonzept und Ergebnisse
@@ -147,11 +148,13 @@ Im Rahmen des Projekts wurde ein umfassendes Set an Materialien entwickelt und e
   
 Materialien und weitere Informationen stellen wir gerne zur Verfügung. Kontaktieren Sie uns einfach unter: lehrkraft-voraus@campus.uni-paderborn.de oder über unsere Homepage: https://ei.uni-paderborn.de/technikdidaktik
 
+![](3_Bild_Pandakurs.png)
 *Abbildung 3 Digitale Lernraumstruktur als „Pandakurs“ (Moodle-basiertes LMS an der Universität Paderborn*
 
 ## 7.	Projekt- und Forschungsmethodik
 Das gesamte Projekt verfolgt einen dreiphasigen Design-Research-Ansatz nach Bakker (2018). Zunächst wurde im Sommersemester 2024 gemäß diesem Ansatz eine explorative Vorstudie zur KI-Nutzung gewerblich-technischer Lehramtsstudierender durchgeführt. Zusätzlich zu diesen empirischen Ergebnissen orientiert sich das Projekt auf theoretischer Ebene am Kompetenzverständnis als Kontinuum nach Blömeke et al. (2015) sowie am Reflexionsverständnis nach Dewey (1910). Als inhaltliche Rahmung für die Entwicklung des Seminarkonzepts wurde der DigCompEdu-Kompetenzrahmen (Redecker & Punie, 2017) herangezogen, insbesondere die Bereiche „Digitale Ressourcen“, „Lehren und Lernen“ sowie „Lernerorientierung“. Die durchgeführten, angeleiteten Reflexionen dienen dabei der Entwicklung KI-bezogener Dispositionen (Vernholz et al., 2025). Um eine tiefgreifende Evaluation im Sinne des Design-Research-Ansatzes zu gewährleisten, wurde eine begleitende Forschung durchgeführt. Diese verfolgt einen Mixed-Methods-Ansatz, wie in Abbildung 1 zu sehen ist:
 
+![](4_Abbildung4.png)
 *Abbildung 4 Begleitforschung zum Projekt LehrKraft voraus!*
 
 Im Rahmen des Mixed-Methods-Ansatzes wurden zu Beginn des Seminars in einer quantitativen Erhebung die KI-bezogenen kognitiven sowie affektiven Dispositionen erhoben (Fragebogen nach Schmidt, 2024). Der Fokus lag hier im Bereich der kognitiven Dispositionen auf dem KI-bezogenen Grundlagenwissen, im Bereich der affektiven Dispositionen wiederum auf den epistemologischen Überzeugungen (Hofer, 2010; Schommer-Aikins, 2004), der Technologieakzeptanz (Venkatesh & Bala, 2008), sowie den Motivationen zur KI-Nutzung (Decy & Ryan, 1985, 2002). Zusätzlich wurden die selbsteingeschätzten KI-Kompetenzen der teilnehmenden Lehramtsstudierenden in einem qualitativen Fragebogen auf Basis des DigCompEdu (Redecker & Punie, 2017) erhoben. Beide Erhebungen wurden zum Semesterende erneut durchgeführt, um longitudinale Entwicklungen zu erfassen (die quantitative Erhebung wurde zusätzlich zur Semestermitte ein drittes Mal durchgeführt). Neben diesen Erhebungen wurden auch die kontinuierlichen schriftlichen Reflexionen der Studierenden mit in die Begleitforschung aufgenommen, um auch hier Entwicklungen und Veränderungen in der KI-Nutzung zu identifizieren.
