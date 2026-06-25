@@ -131,6 +131,7 @@ Das Seminar wurde im Rahmen eines dreiphasigen Design-Research-Ansatzes (nach Ba
   
   •	Phase 3: Durchführung und Reflexion (2 Wochen): Reale Durchführung der entwickelten         Lernsituationen am Lippe-Berufskolleg, gefolgt von einer tiefgehenden Reflexion des         eigenen KI-Einsatzes und der SchülerInneninteraktionen (Beispiel einer geplanten            Lernsituation der gewerblich-technischen Lehramsstudierenden:                               https://www.taskcards.de/#/board/a63baec8-6341-414e-895f-d9bc81fa91b6?token=846eb116-       8779-4d59-aae3-49a7d89ceb2e)
 
+
 ## 6.	Materialien
 Im Rahmen des Projekts wurde ein umfassendes Set an Materialien entwickelt und erprobt.
 
