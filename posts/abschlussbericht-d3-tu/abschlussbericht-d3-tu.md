@@ -1,6 +1,6 @@
-**Dokumentation des Projekts D³@TU macht Schule**
+# Dokumentation des Projekts D³@TU macht Schule
 
-## Gliederung
+**Gliederung**
 
 - Kurzüberblick  
 - Ausgangslage & Projektidee  
@@ -10,14 +10,10 @@
 - Materialien zum Download  
 - Kontakt  
 
----
-
-## D³@TU macht Schule  
+# D³@TU macht Schule
 **Future Class: Zukunftstechnologien sinnvoll anwenden und vermitteln**
 
----
-
-### Kurzüberblick
+## Kurzüberblick
   
 Das Projekt D³@TU macht Schule entwickelte und erprobte mit dem Modul _Future Class: Zukunftstechnologien sinnvoll anwenden und vermitteln_ ein praxisorientiertes Lehrformat für Bachelorstudierende der gewerblich-technischen Lehramtsstudiengänge an der Technischen Universität Berlin. Ziel des Projekts war die Förderung digitaler und digital-didaktischer Kompetenzen angehender Lehrkräfte durch die systematische Verbindung von Fachwissenschaft, Fachdidaktik und Unterrichtspraxis.  
 
@@ -25,9 +21,7 @@ Im Zentrum des Moduls steht die Entwicklung und Durchführung einer Unterrichtse
 
 Das Modul entstand in enger Kooperation zwischen der Fachdidaktik gewerblich-technischer Fachrichtungen, mehreren ingenieurwissenschaftlichen Fachgebieten der TU Berlin, dem OSZ für Maschinen- und Fertigungstechnik sowie dem Entwicklerteam der Lern-App PROSUMIO. Die unterschiedlichen Akteure, Perspektiven und Lernorte bildeten die strukturprägende Grundlage des Projekts.
 
----
-
-#### Auf einen Blick
+### Auf einen Blick
   
 - Entwicklung eines innovativen Moduls zur Förderung digitaler Kompetenzen angehender Lehrkräfte  
 - Zielgruppe: Bachelorstudierende gewerblich-technischer Lehramtsstudiengänge sowie Studierende ausgewählter ingenieurswissenschaftlicher Studiengänge der TU Berlin  
@@ -37,12 +31,9 @@ Das Modul entstand in enger Kooperation zwischen der Fachdidaktik gewerblich-tec
 - Förderung digital-didaktischer Kompetenzen im Kontext beruflicher Bildung  
 - Reflexion von Unterricht, Technologieeinsatz und individueller Kompetenzentwicklung  
 - Wissenschaftliche Begleitung und Evaluation durch Vorher-Nachher-Befragungen  
-- Entwicklung transferfähiger Materialien und Lehrkonzepte  
+- Entwicklung transferfähiger Materialien und Lehrkonzepte
 
----
-
-#### Kooperationspartner
-  
+### Kooperationspartner
 - Technische Universität Berlin  
 - SETUB  
 - Fachdidaktik der gewerblich-technischen Fachrichtungen, Fakultät I – Geistes- und Bildungswissenschaften  
@@ -50,10 +41,8 @@ Das Modul entstand in enger Kooperation zwischen der Fachdidaktik gewerblich-tec
 - Georg-Schlesinger-Schule (OSZ Maschinen- und Fertigungstechnik)  
 - Entwicklerteam der Lern-App PROSUMIO  
 
----
 
-#### Themenschwerpunkte
-  
+### Themenschwerpunkte
 - Digitale Kompetenzen  
 - Berufliche Lehrkräftebildung  
 - Kooperationen  
@@ -61,9 +50,7 @@ Das Modul entstand in enger Kooperation zwischen der Fachdidaktik gewerblich-tec
 - Unterrichtserprobung  
 - Reflexion  
 
----
-
-### Ausgangslage und Projektidee
+## Ausgangslage und Projektidee
   
 Die berufliche Lehrkräftebildung steht vor der Herausforderung, angehende Lehrkräfte auf eine zunehmend digitalisierte Arbeitswelt und Unterrichtspraxis vorzubereiten. Insbesondere in den gewerblich-technischen Berufsfeldern verändert die digitale Transformation und der Einsatz digitaler Anwendungen die beruflichen Arbeitsprozesse und damit die Anforderungen an die Fachkräfte und die berufliche Bildung.  
 
@@ -80,12 +67,9 @@ Zentral war dabei die Zusammenarbeit der Kooperationspartner mit drei verschiede
 
 - akademische Bildung (SETUB, Fak. I, Fak. V)  
 - berufliche Bildung (Oberstufenzentren)  
-- Entwickler eines digitalen Lernmediums (PROSUMIO)  
+- Entwickler eines digitalen Lernmediums (PROSUMIO)
 
----
-
-### Das Modul „Future Class”
-  
+## Das Modul „Future Class”
 Das Modul _Future Class: Zukunftstechnologien sinnvoll anwenden und vermitteln_ mit einem Umfang von 4 SWS und 6 ECTS richtet sich an Bachelorstudierende der gewerblich-technischen Lehramtsstudiengänge sowie an Ingenieursstudierende an der Technischen Universität Berlin. Ziel ist es, Kenntnisse zu digitalen Technologien der Ingenieurwissenschaften zu erwerben oder zu vertiefen, diese mit fachdidaktischen Fragestellungen zu verbinden und darauffolgend eine konkrete Lehrerfahrung in der beruflichen Bildung zu ermöglichen.  
 
 Im Mittelpunkt des Moduls steht die Entwicklung, Durchführung und Reflexion einer Unterrichtseinheit zu einer ausgewählten Zukunftstechnologie. Die Studierenden setzen sich mit Themen wie CAD, KI, additive Fertigung (3D-Druck) sowie Sensorik und Internet of Things (IoT) auseinander. Die fachwissenschaftlichen Inputs werden von verschiedenen Fachgebieten der Ingenieurswissenschaften vermittelt und mit praktischen Anwendungen ergänzt. Flankierend dazu beinhaltet die Einführung in die Fachdidaktik Grundlagen zur Unterrichtsplanung, Kennenlernen und Erproben digitaler Werkzeuge für die Unterrichtsgestaltung sowie eine Einführung in die Lern-App PROSUMIO.  
@@ -93,32 +77,23 @@ Im Mittelpunkt des Moduls steht die Entwicklung, Durchführung und Reflexion ein
 Auf dieser Grundlage entwickeln die Studierenden in interdisziplinären Gruppen unter fachdidaktischer Begleitung eigene Lehr-Lern-Arrangements für Berufsschüler:innen. Dieser Planungsprozess fokussiert darauf, komplexe technologische Inhalte didaktisch zu reduzieren, adressatengerecht mit Bezug zum Berufsfeld aufzubereiten und unter Einsatz digitaler Werkzeuge lernwirksam zu gestalten.  
 
 Die entwickelten Unterrichtskonzepte werden mit Auszubildenden der kooperierenden Berufsschule durchgeführt, in Teilen videografiert und im Anschluss reflektiert.  
-
 Die Verbindung unterschiedlicher Lernorte in der Modulumsetzung beinhaltet auch eine Hospitation am Oberstufenzentrum (Berufliche Schule).  
-
 Die Reflexion des individuellen Lernprozesses der Studierenden ist kontinuierlicher Bestandteil des Moduls.
 
----
 
-#### Aufbau des Moduls
+**Aufbau des Moduls**
 
-![Modulverlauf](modulverlauf.png)
+![](modulverlauf.png)
 *Abbildung 1: Modulverlauf*
 
----
-
-#### Eingesetzte Technologien und Themen
-  
+**Eingesetzte Technologien und Themen**
 - CAD  
 - KI  
 - 3D-Druck  
 - Sensorik und Internet of Things (IoT)  
 - Digitale Werkzeuge 
 
----
-
-### Evaluation und zentrale Befunde
-  
+## Evaluation und zentrale Befunde
 Das Projekt wurde durch qualitative und quantitative Evaluationsformate begleitet. Ziel war insbesondere die Untersuchung der Entwicklung digitaler und digital-didaktischer Kompetenzen der Studierenden sowie die Reflexion des Lernprozesses im Modul.  
 
 Im Rahmen einer Vorher-Nachher-Befragung (N = 14) wurden unter anderem die Selbsteinschätzungen der Studierenden zu allgemeinen digitalen Kompetenzen (DigKomp2.2., Krempkow 2022[^1]), digitalen Kompetenzen als Lehrende (DigCompEdu 2019[^2]) sowie digitalen Anwendungen in technischen Berufen (CAD, KI, 3D, IoT) auf einer fünfstufigen Likert-Skala (1 = gar nicht, 5 = in sehr hohem Maße) erhoben.  
@@ -138,10 +113,7 @@ Zwei Stimmen:
 „Ein besonderes Highlight des Moduls war die Hospitation an der Georg-Schlesinger-Schule. Die Beobachtung des Unterrichts und der Einsatz digitaler Tools und der verwendeten Methoden in einer realen Unterrichtssituation bot wertvolle Einblicke und Anregungen für meine eigene Lehrtätigkeit.“  
 In den Evaluationen und Projektberichten wird zudem deutlich, dass die verschiedenen Lernorte mit ihren spezifischen Perspektiven auf den Lerngegenstand von den Studierenden als besonders bereichernd wahrgenommen werden.  
 
----
-
-### Zum Mitnehmen: Erfahrungen, Herausforderungen und Transfer
-  
+## Zum Mitnehmen: Erfahrungen, Herausforderungen und Transfer 
 Das Projekt _D³@TU macht Schule_ zeigt, dass die systematische Verbindung von Fachwissenschaft, Fachdidaktik und beruflicher Praxis einen wichtigen Beitrag zur Professionalisierung angehender Lehrkräfte leisten kann.  
 
 Besonders positiv hervorzuheben ist die gelungene Kooperation zwischen den Lernorten und Akteuren. Die Studierenden konnten digitale Technologien nicht nur kennenlernen, sondern diese auch didaktisch transformieren, praktisch erproben und reflexiv einordnen.  
@@ -160,17 +132,13 @@ Herausfordernd war zudem die Akquise von Studierenden. Da die Teilnehmendenzahle
 Darüber hinaus zeigte sich die curriculare Integration innovativer Lehrformate als anspruchsvoll. Die Einbindung zusätzlicher praxis- und digitalisierungsbezogener Inhalte erfordert Anpassungen bestehender Curricula und steht häufig in Konkurrenz zu bereits etablierten Studieninhalten.  
 Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzeit hinaus erfordert Durchhaltevermögen. Insbesondere die langfristige Sicherung personeller Ressourcen und die Aufrechterhaltung der Kooperationen stellt sich nach Auslaufen der Projektförderung als eine der zentralen Herausforderungen dar.
 
-
----
-
 ### Materialien zum Download
-  
 - Modulbeschreibung und Seminarverlauf  
 - Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen  
 - Ausgewählte Unterrichtskonzepte und Materialien  
 - Posterpräsentation und Veröffentlichungen 
 
-Veröffentlichungen:  
+**Veröffentlichungen**
 
 Derda, M., Albrecht, M., & Wedel, M. (2025). Digitalisierung lernen, Digitalisierung lehren: Kompetenzerwerb angehender Lehrkräfte mit Hilfe institutsübergreifender Kooperationen. In T. Wiemer, M. Binder, & I. Penning (Hrsg.), _DGTB 26_ (S. 89–104). Universitätsverlag Potsdam. https://doi.org/10.25932/publishup-68569  
 
@@ -182,21 +150,23 @@ Derda, M. & Lohse, C. (2026, in Vorbereitung): Future Class - Ein auf Kooperatio
 
 ---
 
-### Kontakt              
+## Kontakt              
 
-![Foto1](Foto1.jpg)
+![](Foto1.jpg)
 
 **Dr. Mareen Derda**  
 _Geschäftsführung der School of Education der Technischen Universität Berlin_  
-mareen.derda@tu-berlin.de  
+mareen.derda@tu-berlin.de
 
 
-![Foto2](Foto2.jpg)
+
+
+![](Foto2.jpg)
 
 **Dr. Carolin Lohse**  
 _Fachgebiet Fachdidaktik der Technik_  
-c.lohse@tu-berlin.de  
- 
+c.lohse@tu-berlin.de
+
 ---
 
 ### Fußnoten
