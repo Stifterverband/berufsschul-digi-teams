@@ -138,13 +138,13 @@ Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzei
 - Ausgewählte Unterrichtskonzepte und Materialien  
 - Posterpräsentation und Veröffentlichungen
   
-- Modulbeschreibung 51127 Future Class_ Zukunftstechnologien sinnvoll anwenden und vermitteln (25.06.2026).pdf
-- Präsentation 35.Fachtagung Bundesarbeitsgemeinschaft für Berufsbildung ET,IT,MT,FT.pdf
+- Modulbeschreibung_51127_Future Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf
+- Präsentation_35_Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf
 - Semesterverlauf.pdf
-- Future Class_HTBB.pdf
-- Future Class_TU Berlin.pdf
+- Future_Class_HTBB.pdf
+- Future_Class_TU_Berlin.pdf
   
-- Fragebögen der Evaluation.zip
+- Fragebögen_Evaluation.zip
 - Fotos.zip
 
 **Veröffentlichungen**
