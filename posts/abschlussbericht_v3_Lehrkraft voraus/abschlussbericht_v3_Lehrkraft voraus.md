@@ -1,3 +1,6 @@
+![](Deckblatt1.png)
+![](Deckblatt2.png)
+
 # ABSCHLUSSBERICHT PROJEKT LEHRKRAFT VORAUS
 Teil des Förderprogramms Berufsschul-Digi-Teams
 
