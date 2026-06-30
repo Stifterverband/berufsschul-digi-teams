@@ -136,7 +136,13 @@ Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzei
 - Modulbeschreibung und Seminarverlauf  
 - Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen  
 - Ausgewählte Unterrichtskonzepte und Materialien  
-- Posterpräsentation und Veröffentlichungen 
+- Posterpräsentation und Veröffentlichungen
+  
+- Modulbeschreibung 51127 Future Class_ Zukunftstechnologien sinnvoll anwenden und vermitteln (25.06.2026).pdf
+- Präsentation 35.Fachtagung Bundesarbeitsgemeinschaft für Berufsbildung ET,IT,MT,FT.pdf
+- Semesterverlauf.pdf
+- Future Class_HTBB.pdf
+- Future Class_TU Berlin.pdf
 
 **Veröffentlichungen**
 
