@@ -1,12 +1,4 @@
 ![](Deckblatt1.png)
-![](Deckblatt2.png)
-
-# ABSCHLUSSBERICHT PROJEKT LEHRKRAFT VORAUS
-Teil des Förderprogramms Berufsschul-Digi-Teams
-
-9. Juni 2026  
-Universität Paderborn  
-Dr.-Ing Mats Vernholz, Johannes Schäfers, Dr. Gabriela Jonas-Ahrend, Prof. Dr.-Ing. Katrin Temmen
 
 ## 1.Einleitung und Projektüberblick
 Die fortschreitende Digitalisierung und die rasante Entwicklung Künstlicher Intelligenz (KI) stellen das Bildungssystem vor neue Herausforderungen. Im Zentrum des verstetigten Projekts „LehrKraft voraus!“ steht daher die Ausgangsfrage: *Wie können angehende Lehrkräfte gewerblich-technischer Fachrichtungen künstliche Intelligenz nicht nur als isoliertes Unterrichtsthema, sondern auch als wirkungsvolles Werkzeug für die eigene Unterrichtsplanung und zur Unterstützung von Lehr-Lern-Prozessen didaktisch sinnvoll einsetzen?*
