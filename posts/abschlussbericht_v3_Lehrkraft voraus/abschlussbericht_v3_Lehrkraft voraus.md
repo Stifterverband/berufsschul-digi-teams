@@ -118,7 +118,7 @@ Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL
 
 ![](2_foto_foerderband_mit_ki_kamera_ohne_hintergrund.png) ![](2_1_foto_foerderband_und_busskoppler_ohne_hintergrund.png)
 
-*Abbildung 2 Aufbau der Automatisierungstechnik. Links: Festo-Förderband mit KI-Kamera. Rechts: Gesamtaufbau zusätzlich mit Buskoppler und Transceiver*
+*Abbildung 2 Aufbau der Automatisierungstechnik. Oben: Festo-Förderband mit KI-Kamera. Unten: Gesamtaufbau zusätzlich mit Buskoppler und Transceiver*
 
 
 ## 5.Seminarkonzept und Ergebnisse
