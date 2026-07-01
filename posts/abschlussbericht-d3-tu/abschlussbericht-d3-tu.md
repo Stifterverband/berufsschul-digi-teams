@@ -135,8 +135,7 @@ Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzei
 ### Materialien zum Download
 - [Modulbeschreibung.pdf](Modulbeschreibung_51127_Future_Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf) und [Seminarverlauf.pdf](Semesterverlauf.pdf)
                                         
-- Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen:
-   [Fragebögen Evaluation.zip](Fragebögen_Evaluation.zip)
+- Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen:  [Fragebögen Evaluation.zip](Fragebögen_Evaluation.zip)
 
 
 - Posterpräsentation und Veröffentlichungen:  [Future Class HTBB.pdf](Future_Class_HTBB.pdf)
