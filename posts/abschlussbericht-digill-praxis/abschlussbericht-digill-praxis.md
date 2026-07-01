@@ -74,19 +74,19 @@ Wenig überraschend, für das Projekt jedoch dennoch bedeutsam, sind die kleinen
 Für eine flächendeckende Unterrichtsversorgung sowie für die Gestaltung kooperativer Lernprozesse erscheinen größere Kohorten innerhalb eines Jahrgangs grundsätzlich vorteilhaft. In Rheinland-Pfalz finden derzeit erste Abstimmungsprozesse mit der Bildungsadministration statt, um Möglichkeiten für einen Quereinstiegsmaster zu schaffen, der keinen Bachelor of Education als Zugangsvoraussetzung erfordert, zugleich jedoch den Weg zum Ersten Staatsexamen eröffnet.
 
 Die am Studienseminar eingesetzten Beratungskarten für die Reflexion von Unterricht:
--	https://t1p.de/Beratungskarten2026
+https://t1p.de/Beratungskarten2026
 
 Die Software zur Reflexion der aufgezeichneten Unterrichtsstunden wird von eGroupware angeboten:
--	https://www.vidoteach.de/de/
+https://www.vidoteach.de/de/
 
 Die Aufzeichnung der Stunden erfolgte mit dem Swivl CX
--	https://www.swivl.com/robot/
+https://www.swivl.com/robot/
 
 Die Software Factory I/O, mit der der Prototyp zur Fehlerdiagnose entwickelt wurde:
--	https://factoryio.com/siemens-edition
+https://factoryio.com/siemens-edition
 
 Der entwickelte theoretische Rahmen, um digitalisierungsbezogene Kompetenzen von (angehenden) Lehrkräften im Bereich Technik in der Progression in einem konzeptionellen Rahmen zu adressieren:
--	https://doi.org/10.18419/opus-16369
+https://doi.org/10.18419/opus-16369
 
 ---
 
