@@ -1,6 +1,6 @@
 ---
 title: "Abschlussbericht DIGILL@Praxis"
-- categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
+categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
 ---
 
 ## Konzeptioneller Hintergrund des Projekts
