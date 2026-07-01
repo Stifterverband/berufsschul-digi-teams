@@ -1,5 +1,6 @@
 ---
 title: "Abschlussbericht DIGILL@Praxis"
+format: html
 categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
 ---
 
