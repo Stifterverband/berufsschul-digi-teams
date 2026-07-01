@@ -1,3 +1,14 @@
+---
+title: "Abschlussbericht DIGILL@Praxis"
+tags:
+  - Digitalisierung
+  - Unterricht
+  - Medienbildung
+  - Didaktik
+  - Berufsschule
+  - Berufsschul-Digi-Teams
+---
+
 # Abschlussbericht DIGILL@Praxis
 
 ## Konzeptioneller Hintergrund des Projekts
