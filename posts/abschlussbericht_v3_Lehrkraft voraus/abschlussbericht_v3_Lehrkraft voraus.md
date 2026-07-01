@@ -16,12 +16,14 @@ Das Projekt befindet sich genau an dieser Schnittstelle und entwickelt ein koope
 Das Projekt zeichnet sich durch eine enge Verzahnung zwischen universitärer Lehrkräftebildung, schulischer Praxis und industrienahen Technologien aus.
 
 **Universität Paderborn**
+
   •	Dr.-Ing. Mats Vernholz
   •	Johannes Schäfers
   •	Dr. Gabriela Jonas-Ahrend
   •	Prof. Dr.-Ing. Katrin Temmen
 
 **Lippe-Berufskolleg des Kreises Soest in Lippstadt (schulische Erprobung)**
+
   •	Schulleitung (Michael Flore und Sandra Uhlir)
   •	Beteiligte Lehrkräfte (Niklas Kleinewietfeld, Astrid Kemper, Danny Schulte)
 
@@ -90,7 +92,7 @@ Der Aufbau ist so gestaltet, dass er von den SchülerInnen im Unterricht als off
   • Die Oberfläche bietet den SchülerInnen zudem die Möglichkeit, die Konfidenzschwelle und     den Glättungsfaktor live anzupassen. Auf diese Weise können sie im Unterricht testen,       wie sich softwareseitige Filterungen direkt auf die Sortierung der Anlage auswirken.
 
 ![](1_Bild_KI-Kamera-Oberfläche.png)
-*(Abbildung 1 Oberfläche der eigens entwickelten Software für die KI-Kamera (erreichbar unter der IP-Adresse der Kamera)*
+*Abbildung 1 Oberfläche der eigens entwickelten Software für die KI-Kamera (erreichbar unter der IP-Adresse der Kamera*
 
 Für das Modelltraining hat sich die Plattform *Edge Impulse* als besonders geeignet erwiesen. Neben einer recht strukturierten Oberfläche hat sie zwei besondere Vorteile:
  
@@ -113,7 +115,6 @@ Die eigens für diesen Lernträger entwickelte Kamera-Software löst zusammen mi
 Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL6001; M5Stack UnitV2-M12; UART-RS232 Transceiver; D-Sub-15-Kabel (Buchse); 24V-Netzteil; PC inkl. TwinCAT XAE Shell und Runtime (mit kostenlosen, unbegrenzt erneuerbaren 7-Tages-Lizenzen).
 
 ![](2_foto_foerderband_mit_ki_kamera_ohne_hintergrund.png) ![](2_1_foto_foerderband_und_busskoppler_ohne_hintergrund.png)
-
 *Abbildung 2 Aufbau der Automatisierungstechnik. Oben: Festo-Förderband mit KI-Kamera. Unten: Gesamtaufbau zusätzlich mit Buskoppler und Transceiver*
 
 
