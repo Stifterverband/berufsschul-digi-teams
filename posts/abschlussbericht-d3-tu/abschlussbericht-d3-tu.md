@@ -1,4 +1,8 @@
-# Dokumentation des Projekts D³@TU macht Schule
+---
+title: "Dokumentation des Projekts D³@TU macht Schule"
+format: html
+categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
+---
 
 **Gliederung**
 
