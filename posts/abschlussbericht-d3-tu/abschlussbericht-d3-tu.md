@@ -105,37 +105,43 @@ Im Rahmen einer Vorher-Nachher-Befragung (N = 14) wurden unter anderem die Selbs
 Die Befragung basiert auf etablierten Kompetenzrahmen und Instrumenten. Alle erfassten Items zeigen im Verlauf des Moduls positive Entwicklungen der Mittelwerte.  
 Besonders deutlich zeigen sich Kompetenzzuwächse:  
 
-im Bereich _Datenverarbeitung und -bewertung_ allgemeiner digitaler Kompetenzen,  
-in der Teilkompetenz _Lehren_ digitaler Kompetenzen angehender Lehrkräfte,  
-sowie im Bereich _additive Fertigung (3D-Druck)_ bei technologiebezogenen Anwendungen.  
+- im Bereich _Datenverarbeitung und -bewertung_ allgemeiner digitaler Kompetenzen,  
+- in der Teilkompetenz _Lehren_ digitaler Kompetenzen angehender Lehrkräfte,  
+- sowie im Bereich _additive Fertigung (3D-Druck)_ bei technologiebezogenen Anwendungen.  
 
 Die Ergebnisse deuten darauf hin, dass insbesondere die Verbindung aus fachwissenschaftlicher Vertiefung, eigener Unterrichtsentwicklung, Unterrichtserprobung und Reflexion zur Kompetenzentwicklung der Studierenden beiträgt.  
 Auch die qualitativen Rückmeldungen der Studierenden verdeutlichen den wahrgenommenen Mehrwert des Moduls. Besonders hervorgehoben werden die Verbindung von Theorie und Praxis, die eigenständige Unterrichtsdurchführung sowie die Reflexion des eigenen professionellen Handelns.  
 
 Zwei Stimmen:  
+
 „Insgesamt war die Möglichkeit, im Rahmen des Moduls eigenen Unterricht gestalten und durchzuführen, besonders lehrreich für mich und hat mir wichtige Einblicke in meinen zukünftigen Beruf als Berufsschullehrkraft gegeben. Darüber hinaus hat diese Erfahrung meinen Willen, meinen pädagogischen Abschluss zu erreichen, weiter gefestigt.“  
 
 „Ein besonderes Highlight des Moduls war die Hospitation an der Georg-Schlesinger-Schule. Die Beobachtung des Unterrichts und der Einsatz digitaler Tools und der verwendeten Methoden in einer realen Unterrichtssituation bot wertvolle Einblicke und Anregungen für meine eigene Lehrtätigkeit.“  
+
 In den Evaluationen und Projektberichten wird zudem deutlich, dass die verschiedenen Lernorte mit ihren spezifischen Perspektiven auf den Lerngegenstand von den Studierenden als besonders bereichernd wahrgenommen werden.  
 
 ## Zum Mitnehmen: Erfahrungen, Herausforderungen und Transfer 
 Das Projekt _D³@TU macht Schule_ zeigt, dass die systematische Verbindung von Fachwissenschaft, Fachdidaktik und beruflicher Praxis einen wichtigen Beitrag zur Professionalisierung angehender Lehrkräfte leisten kann.  
-
 Besonders positiv hervorzuheben ist die gelungene Kooperation zwischen den Lernorten und Akteuren. Die Studierenden konnten digitale Technologien nicht nur kennenlernen, sondern diese auch didaktisch transformieren, praktisch erproben und reflexiv einordnen.  
 
-Für die Projektorganisation erwies sich die Kooperation zwischen Fachwissenschaft, Fachdidaktik und beruflicher Schule sowie Raum für die gemeinsame Planung, Reflexion und Abstimmung aller Beteiligten als zentral.  
-
-In der Umsetzung des Moduls werden die Aspekte der Unterrichtserprobung bereits im Bachelorstudium und die didaktische Reflexion des Technologieeinsatzes von den Studierenden besonders bereichernd wahrgenommen.  
-
-Gleichzeitig machte das Projekt deutlich, dass kooperative und praxisorientierte Lehrformate mit erhöhtem Abstimmungs- und Organisationsaufwand verbunden sind.  
-
-Die Einbeziehung aller beteiligten Akteure erforderte kontinuierliche Kommunikation und flexible Abstimmungsprozesse sowohl fakultätsübergreifend als auch zwischen Universität, Schule und weiteren Praxispartnern.  
-
+Für die Projektorganisation erwies sich die Kooperation zwischen Fachwissenschaft, Fachdidaktik und beruflicher Schule sowie Raum für die gemeinsame Planung, Reflexion und Abstimmung aller Beteiligten als zentral.
+In der Umsetzung des Moduls werden die Aspekte der Unterrichtserprobung bereits im Bachelorstudium und die didaktische Reflexion des Technologieeinsatzes von den Studierenden besonders bereichernd wahrgenommen.
+Gleichzeitig machte das Projekt deutlich, dass kooperative und praxisorientierte Lehrformate mit erhöhtem Abstimmungs- und Organisationsaufwand verbunden sind.
+Die Einbeziehung aller beteiligten Akteure erforderte kontinuierliche Kommunikation und flexible Abstimmungsprozesse sowohl fakultätsübergreifend als auch zwischen Universität, Schule und weiteren Praxispartnern.
 Auch die Entwicklung geeigneter Evaluationsinstrumente und die Datenanalyse erwiesen sich als deutlich zeitintensiver als ursprünglich geplant.  
 Die Integration der Lern-App PROSUMIO stellte sich anfänglich als Hürde dar. Während der ersten Moduldurchführung befand sich die App noch im Entwicklungsprozess, sodass den Studierenden nur eingeschränkte Funktionen zur Verfügung standen. Dies führte dazu, dass die App von Teilen der Studierenden zunächst als wenig relevant für das Modul wahrgenommen wurde.  
-Herausfordernd war zudem die Akquise von Studierenden. Da die Teilnehmendenzahlen im Vorfeld nur schwer planbar waren, bestand wiederholt Unsicherheit hinsichtlich der Durchführung des Moduls. Aufgrund dieser Unsicherheit wird ab dem Wintersemester 2026/27 von einem einsemestrigen Turnus zu einem zweisemestrigen Turnus gewechselt. Zudem wird an einer stärkeren Sichtbarkeit und Öffnung des Moduls für interessierte Studierende weiterer Studiengänge gearbeitet.  
+Herausfordernd war zudem die Akquise von Studierenden. Da die Teilnehmendenzahlen im Vorfeld nur schwer planbar waren, bestand wiederholt Unsicherheit hinsichtlich der Durchführung des Moduls. Aufgrund dieser Unsicherheit wird ab dem Wintersemester 2026/27 von einem einsemestrigen Turnus zu einem zweisemestrigen Turnus gewechselt. Zudem wird an einer stärkeren Sichtbarkeit und Öffnung des Moduls für interessierte Studierende weiterer Studiengänge gearbeitet.
 Darüber hinaus zeigte sich die curriculare Integration innovativer Lehrformate als anspruchsvoll. Die Einbindung zusätzlicher praxis- und digitalisierungsbezogener Inhalte erfordert Anpassungen bestehender Curricula und steht häufig in Konkurrenz zu bereits etablierten Studieninhalten.  
 Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzeit hinaus erfordert Durchhaltevermögen. Insbesondere die langfristige Sicherung personeller Ressourcen und die Aufrechterhaltung der Kooperationen stellt sich nach Auslaufen der Projektförderung als eine der zentralen Herausforderungen dar.
+
+Für den Transfer besonders relevant sind unserer Sicht folgende Erkenntnisse:
+•	Digitale Kompetenzen lassen sich wirksam in authentischen fachlichen und beruflichen Handlungssituationen fördern.
+•	Die frühe Unterrichtserprobung stärkt Motivation, Professionalisierung und Studierendenbindung.
+•	Strukturell verankerte Kooperationen zwischen Universität, Schule und weiteren Praxispartnern schaffen neue Perspektiven für die Lehrkräftebildung.
+•	Interdisziplinäre Zusammenarbeit unterstützt die adressatengerechte Transformation komplexer technologischer Inhalte in berufliche Lehr-Lern-Prozesse.
+
+Das Projekt versteht sich ausdrücklich als transferfähiges Modell für eine kooperative und digitalisierungsbezogene Lehrkräftebildung in gewerblich-technischen Fachrichtungen. Einzelne Elemente des Moduls, etwa die Verbindung von Fachwissenschaft, Unterrichtserprobung und Reflexion, lassen sich auch auf andere Fachrichtungen und Hochschulkontexte übertragen.
+
 
 ### Materialien zum Download
 - [Modulbeschreibung.pdf](Modulbeschreibung_51127_Future_Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf) und [Seminarverlauf.pdf](Semesterverlauf.pdf)
