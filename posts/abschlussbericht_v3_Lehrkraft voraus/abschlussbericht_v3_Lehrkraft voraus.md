@@ -1,4 +1,9 @@
-# Abschlussbericht LehrKraft voraus!
+---
+title: "Abschlussbericht LehrKraft voraus!"
+format: html
+categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
+---
+
 ![](Deckblatt1.png)
 
 ## 1.Einleitung und Projektüberblick
