@@ -138,12 +138,12 @@ Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzei
                                         [Seminarverlauf.pdf](Semesterverlauf.pdf)
   
 - Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen
-   [Fragebögen_Evaluation.zip](Fragebögen_Evaluation.zip)
+   [Fragebögen Evaluation.zip](Fragebögen_Evaluation.zip)
 
 
-- Posterpräsentation und Veröffentlichungen:  [Future_Class_HTBB.pdf](Future_Class_HTBB.pdf)
-                                              [Future_Class_TU_Berlin.pdf](Future_Class_TU_Berlin.pdf)
-                                              [Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf](Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf)
+- Posterpräsentation und Veröffentlichungen:  [Future Class HTBB.pdf](Future_Class_HTBB.pdf)
+                                              [Future Class TU Berlin.pdf](Future_Class_TU_Berlin.pdf)
+                                              [Präsentation 35.Fachtagung Bundesarbeitsgemeinschaft für Berufsbildung ET IT MT FT.pdf](Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf)
   
 - Ausgewählte Unterrichtskonzepte und Materialien 
 
