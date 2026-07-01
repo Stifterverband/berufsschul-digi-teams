@@ -38,10 +38,11 @@ Das Modul entstand in enger Kooperation zwischen der Fachdidaktik gewerblich-tec
 - Entwicklung transferfähiger Materialien und Lehrkonzepte
 
 ### Kooperationspartner
-- Technische Universität Berlin  
-- SETUB  
-- Fachdidaktik der gewerblich-technischen Fachrichtungen, Fakultät I – Geistes- und Bildungswissenschaften  
-- Ingenieurwissenschaftliche Fachgebiete der Fakultät V – Verkehrs- und Maschinensysteme  
+- Technische Universität Berlin:
+  - SETUB
+  - Fachdidaktik der gewerblich-technischen Fachrichtungen, Fakultät I – Geistes- und Bildungswissenschaften  
+  - Ingenieurwissenschaftliche Fachgebiete der Fakultät V – Verkehrs- und Maschinensysteme  
+
 - Georg-Schlesinger-Schule (OSZ Maschinen- und Fertigungstechnik)  
 - Entwicklerteam der Lern-App PROSUMIO  
 
