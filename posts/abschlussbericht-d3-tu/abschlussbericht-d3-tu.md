@@ -133,10 +133,8 @@ Darüber hinaus zeigte sich die curriculare Integration innovativer Lehrformate 
 Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzeit hinaus erfordert Durchhaltevermögen. Insbesondere die langfristige Sicherung personeller Ressourcen und die Aufrechterhaltung der Kooperationen stellt sich nach Auslaufen der Projektförderung als eine der zentralen Herausforderungen dar.
 
 ### Materialien zum Download
-- Modulbeschreibung und Seminarverlauf:
-                                        [Modulbeschreibung.pdf](Modulbeschreibung_51127_Future_Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf)
-                                        [Seminarverlauf.pdf](Semesterverlauf.pdf)
-  
+- [Modulbeschreibung.pdf](Modulbeschreibung_51127_Future_Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf) und [Seminarverlauf.pdf](Semesterverlauf.pdf):
+                                        
 - Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen
    [Fragebögen Evaluation.zip](Fragebögen_Evaluation.zip)
 
