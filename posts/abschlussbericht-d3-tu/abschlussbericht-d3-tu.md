@@ -134,7 +134,7 @@ Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzei
 
 ### Materialien zum Download
 - Modulbeschreibung und Seminarverlauf:
-                                        [Modulbeschreibung.pdf](Modulbeschreibung_51127_Future Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf)
+                                        [Modulbeschreibung.pdf](Modulbeschreibung_51127_Future_Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf)
                                         [Seminarverlauf.pdf](Semesterverlauf.pdf)
   
 - Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen
