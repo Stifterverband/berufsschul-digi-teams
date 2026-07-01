@@ -149,7 +149,9 @@ Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzei
 - [3D-Druck_Fotos.zip](3D-Druck.zip)
 - [3D-Druck_Fotos2.zip](3D-Druck_Fotos2.zip)
 - [3D-Druck_Fotos3.zip](3D-Druck_Fotos3.zip)
-- [Fotos.zip](Fotos.zip)
+- [Fotos.zip](Fotos_1.zip)
+- [Fotos.zip](Fotos_2.zip)
+- [Fotos.zip](Fotos_3.zip)
 
 **Veröffentlichungen**
 
