@@ -133,22 +133,20 @@ Darüber hinaus zeigte sich die curriculare Integration innovativer Lehrformate 
 Die Verstetigung eines solchen kooperativen Lehrformats über die Projektlaufzeit hinaus erfordert Durchhaltevermögen. Insbesondere die langfristige Sicherung personeller Ressourcen und die Aufrechterhaltung der Kooperationen stellt sich nach Auslaufen der Projektförderung als eine der zentralen Herausforderungen dar.
 
 ### Materialien zum Download
-- Modulbeschreibung und Seminarverlauf  
-- Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen  
-- Ausgewählte Unterrichtskonzepte und Materialien  
-- Posterpräsentation und Veröffentlichungen
+- Modulbeschreibung und Seminarverlauf:
+                                        [Modulbeschreibung.pdf](Modulbeschreibung_51127_Future Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf)
+                                        [Seminarverlauf.pdf](Semesterverlauf.pdf)
   
-- [Modulbeschreibung_51127_Future Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf](Modulbeschreibung_51127_Future Class_Zukunftstechnologien_sinnvoll_anwenden_und_vermitteln_Juni_2026.pdf)
+- Evaluationsinstrument zur Selbsteinschätzung digitaler Kompetenzen
+   [Fragebögen_Evaluation.zip](Fragebögen_Evaluation.zip)
 
-- [Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf](Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf)
+
+- Posterpräsentation und Veröffentlichungen:  [Future_Class_HTBB.pdf](Future_Class_HTBB.pdf)
+                                              [Future_Class_TU_Berlin.pdf](Future_Class_TU_Berlin.pdf)
+                                              [Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf](Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf)
   
-- [Semesterverlauf.pdf](Semesterverlauf.pdf)
+- Ausgewählte Unterrichtskonzepte und Materialien 
 
-- [Future_Class_HTBB.pdf](Future_Class_HTBB.pdf)
-
-- [Future_Class_TU_Berlin.pdf](Future_Class_TU_Berlin.pdf)
-
-- [Fragebögen_Evaluation.zip](Fragebögen_Evaluation.zip)
 
 - [Fotos.zip](Fotos.zip)
 
