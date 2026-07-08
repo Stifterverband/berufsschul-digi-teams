@@ -1,5 +1,5 @@
 ---
-title: "Dokumentation des Projekts D³@TU macht Schule"
+title: "TU Berlin: D³@TU macht Schule"
 format: html
 categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
 ---
