@@ -48,76 +48,80 @@ Das primäre Ziel von „LehrKraft voraus!“ ist die gezielte Förderung der KI
 ## 4.	Technischer Aufbau und Lernträger
 Als technischer Lernträger und physisches Anschauungsobjekt dient im Projekt eine modifizierte Festo-Förderbandanlage mit Sortierung. Diese bildet eine industrielle Objekterkennung ab und schlägt die Brücke zwischen moderner Informationstechnik und klassischer speicherprogrammierbarer Steuerung (SPS). 
 
-  •	Ein Förderband transportiert die Bauteile, während ein Hubmagnet als Aktor dient, um        zum Beispiel fehlerhafte Werkstücke mechanisch auszusortieren. 
+  •	Ein Förderband transportiert die Bauteile, während ein Hubmagnet als Aktor dient, umnzum Beispiel fehlerhafte Werkstücke mechanisch auszusortieren. 
 
   •	Die Koordination des zeitlichen Ablaufs übernimmt eine softwarebasierte Steuerung 
-    (Soft-SPS via Beckhoff TwinCAT), die auf einem normalen PC ausgeführt wird. Die             physische Anbindung der Anlage an den PC erfolgt über einen Buskoppler (EtherCAT-           Koppler).
+    (Soft-SPS via Beckhoff TwinCAT), die auf einem normalen PC ausgeführt wird. Die physische Anbindung der Anlage an den PC erfolgt über einen Buskoppler (EtherCAT-Koppler).
 
-  •	Über dem Förderband ist eine KI-Kamera vom Typ M5Stack UnitV2 montiert, die als             optischer Sensor zur Objekterkennung dient. 
+  •	Über dem Förderband ist eine KI-Kamera vom Typ M5Stack UnitV2 montiert, die als optischer Sensor zur Objekterkennung dient. 
 
-  •	Die Kamera kommuniziert über eine serielle UART-Schnittstelle wiederum mit der SPS. Da     die serielle Eingangsklemme der SPS jedoch mit industriellen RS232-Spannungspegeln          arbeitet, ist ein kleiner Pegelwandler zwischengeschaltet. 
+  •	Die Kamera kommuniziert über eine serielle UART-Schnittstelle wiederum mit der SPS. Da die serielle Eingangsklemme der SPS jedoch mit industriellen RS232-Spannungspegeln arbeitet, ist ein kleiner Pegelwandler zwischengeschaltet.
 
 **Software und Datenfluss**
 
 Zur Kommunikation zwischen der Kamera und der Soft-SPS auf dem PC ist der folgende Datenfluss implementiert:
 
-  •	Auf der KI-Kamera läuft nativ eine Python-Anwendung. Diese nutzt ein neuronales Netz,       um das Kamerabild in Echtzeit auszuwerten und Objekte zu klassifizieren. Das gewählte       standardisierte TensorFlow-Lite-Format zeichnet sich durch eine hohe Offenheit und          Plattformunabhängigkeit aus. Entsprechende Modelle lassen sich flexibel auf                 unterschiedlichen Plattformen (wie Edge Impulse) oder mittels eigenem Python-Code           generieren.
+Auf der KI-Kamera läuft nativ eine Python-Anwendung. Diese nutzt ein neuronales Netz, um das Kamerabild in Echtzeit auszuwerten und Objekte zu klassifizieren. Das gewählte standardisierte TensorFlow-Lite-Format zeichnet sich durch eine hohe Offenheit und Plattformunabhängigkeit aus. Entsprechende Modelle lassen sich flexibel auf unterschiedlichen Plattformen (wie Edge Impulse) oder mittels eigenem Python-Code           generieren.
 
-  •	Erkennt das KI-Modell ein Objekt, generiert es fortlaufend ein Datenpaket im JSON-          Format. Es enthält die ermittelte Objektklasse sowie die prozentuale Sicherheit der         Erkennung.
+ Erkennt das KI-Modell ein Objekt, generiert es fortlaufend ein Datenpaket im JSON-Format. Es enthält die ermittelte Objektklasse sowie die prozentuale Sicherheit der Erkennung.
 
-  •	Dieses JSON-Paket wird über die serielle UART/RS232-Verbindung an den Buskoppler und        somit an die Soft-SPS auf dem PC geschickt.
+Dieses JSON-Paket wird über die serielle UART/RS232-Verbindung an den Buskoppler und somit an die Soft-SPS auf dem PC geschickt.
 
 Der als Soft-SPS genutzte PC dient gleichzeitig als Bedienstation. Über einen Webbrowser lässt sich die selbstentwickelte grafische Oberfläche der Kamera aufrufen. Hier stehen dem Anwender drei Konfigurationswerkzeuge zur Verfügung:
 
-  •	Über eine Drag-and-Drop-Schnittstelle können neue KI-Modelle (lite/tflite-Dateien)          direkt auf die Kamera geladen und per Mausklick aktiviert werden.
+Über eine Drag-and-Drop-Schnittstelle können neue KI-Modelle (lite/tflite-Dateien) direkt auf die Kamera geladen und per Mausklick aktiviert werden.
 
-  •	Der Nutzer legt flexibel fest, welche der vom KI-Modell erkannten Klassen als „Gut“        (Teil fährt durch) oder als „Ausschuss“ (Teil wird aussortiert) gewertet werden sollen. 
+Der Nutzer legt flexibel fest, welche der vom KI-Modell erkannten Klassen als „Gut“ (Teil fährt durch) oder als „Ausschuss“ (Teil wird aussortiert) gewertet werden sollen.
 
-  •	Über Schieberegler lässt sich die Konfidenzschwelle (Mindestsicherheit der Erkennung in     Prozent) und der Glättungsfaktor (Anzahl der Videobilder, über die das                      Erkennungsergebnis stabilisiert wird) live einstellen. Dadurch können Erkennungsfehler      und Bildrauschen direkt in der Kamera-Software an die Zuverlässigkeit des KI-Modells        angepasst werden.
+Über Schieberegler lässt sich die Konfidenzschwelle (Mindestsicherheit der Erkennung in Prozent) und der Glättungsfaktor (Anzahl der Videobilder, über die das Erkennungsergebnis stabilisiert wird) live einstellen. Dadurch können Erkennungsfehler und Bildrauschen direkt in der Kamera-Software an die Zuverlässigkeit des KI-Modells angepasst werden.
   
 Die Soft-SPS auf dem PC empfängt die im Dashboard vorkonfigurierten Ergebnisse und verarbeitet sie in einer einfachen, zeitgesteuerten Schrittkette weiter:
 
   1.	Sobald ein Werkstück die Lichtschranke passiert, startet das Förderband.
   	 
-  2.	Das Band stoppt nach einer Sekunde das Bauteil unter der Kamera. Die SPS wartet kurz,       um Bewegungsunschärfe zu vermeiden, liest das JSON-Signal der Kamera aus und                berechnet zur Sicherheit einen Mittelwert über fünf Erkennungszyklen. 
+  2.	Das Band stoppt nach einer Sekunde das Bauteil unter der Kamera. Die SPS wartet kurz, um Bewegungsunschärfe zu vermeiden, liest das JSON-Signal der Kamera aus und berechnet zur Sicherheit einen Mittelwert über fünf Erkennungszyklen. 
   
-  3.	Wird ein fehlerhaftes Bauteil erkannt (oder kann das Objekt nicht eindeutig                 identifiziert werden), wird die Weiche aktiviert, der das Teil beim anschließenden          Weitertransport in das Ausschussfach schiebt. Nach dem Abtransport schaltet die             Anlage alle Aktoren ab und wartet im Ausgangszustand auf das nächste Werkstück.
+  3.	Wird ein fehlerhaftes Bauteil erkannt (oder kann das Objekt nicht eindeutig identifiziert werden), wird die Weiche aktiviert, der das Teil beim anschließenden Weitertransport in das Ausschussfach schiebt. Nach dem Abtransport schaltet die Anlage alle Aktoren ab und wartet im Ausgangszustand auf das nächste Werkstück.
 
 
 **Einsatzmöglichkeiten als Lernträger im Unterricht**
 
 Der Aufbau ist so gestaltet, dass er von den SchülerInnen im Unterricht als offene Lernumgebung genutzt werden kann. Er ermöglicht es den SchülerInnen, den gesamten Prozess von der Bildaufnahme bis zur praktischen Erprobung einer KI-Bilderkennung selbstständig hinsichtlich folgender Punkte zu durchlaufen.
 
-  •	Die SchülerInnen können über die im Webbrowser aufgerufene Benutzeroberfläche der           Kamera eigenständig Fotos verschiedener Werkstücke aufnehmen. Diese Bilder lassen sich      direkt in der Galerie der Kamera abspeichern und einzeln oder gesammelt herunterladen.
+•	Die SchülerInnen können über die im Webbrowser aufgerufene Benutzeroberfläche der Kamera eigenständig Fotos verschiedener Werkstücke aufnehmen. Diese Bilder lassen sich direkt in der Galerie der Kamera abspeichern und einzeln oder gesammelt herunterladen.
 
-  •	In der KI-Trainingsplattform Edge Impulse können die SchülerInnen die Schritte zur         Modellgenerierung selbst durchführen, indem sie die Bilder labeln, das neuronale Netz       konfigurieren und das KI-Modell anlernen lassen.
+•	In der KI-Trainingsplattform Edge Impulse können die SchülerInnen die Schritte zur Modellgenerierung selbst durchführen, indem sie die Bilder labeln, das neuronale Netz konfigurieren und das KI-Modell anlernen lassen.
 
-  •	Nach dem erfolgreichen Training können die SchülerInnen das fertige Modell im               TensorFlow-Lite-Format (Int8) herunterladen und per Drag-and-Drop auf die Kamera laden.     Beim anschließenden Betrieb der Sortieranlage können sie ihr eigenes Modell direkt im       realen Prozess testen und überprüfen, ob der Hubmagnet die Werkstücke auf Basis ihrer       Konfiguration korrekt aussortiert.
+•	Nach dem erfolgreichen Training können die SchülerInnen das fertige Modell im TensorFlow-Lite-Format (Int8) herunterladen und per Drag-and-Drop auf die Kamera laden. Beim anschließenden Betrieb der Sortieranlage können sie ihr eigenes Modell direkt im realen Prozess testen und überprüfen, ob der Hubmagnet die Werkstücke auf Basis ihrer Konfiguration korrekt aussortiert.
 
-  • Die Oberfläche bietet den SchülerInnen zudem die Möglichkeit, die Konfidenzschwelle und     den Glättungsfaktor live anzupassen. Auf diese Weise können sie im Unterricht testen,       wie sich softwareseitige Filterungen direkt auf die Sortierung der Anlage auswirken.
+• Die Oberfläche bietet den SchülerInnen zudem die Möglichkeit, die Konfidenzschwelle und den Glättungsfaktor live anzupassen. Auf diese Weise können sie im Unterricht testen, wie sich softwareseitige Filterungen direkt auf die Sortierung der Anlage auswirken.
 
 ![](1_Bild_KI-Kamera-Oberfläche.png)
 *Abbildung 1 Oberfläche der eigens entwickelten Software für die KI-Kamera (erreichbar unter der IP-Adresse der Kamera*
 
 Für das Modelltraining hat sich die Plattform *Edge Impulse* als besonders geeignet erwiesen. Neben einer recht strukturierten Oberfläche hat sie zwei besondere Vorteile:
  
-  •	In der kostenlosen Variante der Plattform können bis zu drei Schüler*innen zeitgleich       an einem gemeinsamen Projekt arbeiten. Dies ermöglicht eine kooperative Aufteilung von      Arbeitsschritten, sodass beispielsweise das zeitintensive Labeling der Bilddaten             parallel im Team durchgeführt werden kann.
+  •	In der kostenlosen Variante der Plattform können bis zu drei Schüler*innen zeitgleich an einem gemeinsamen Projekt arbeiten. Dies ermöglicht eine kooperative Aufteilung von Arbeitsschritten, sodass beispielsweise das zeitintensive Labeling der Bilddaten parallel im Team durchgeführt werden kann.
   
-  •	Das fertig trainierte Modell lässt sich direkt aus der Plattform heraus über einen          bereitgestellten QR-Code auf einem Smartphone oder Tablet ausführen. Dies ermöglicht es     den Schülern, die Zuverlässigkeit ihrer Bilderkennung auch ohne KI-Kamera zu testen,        bevor das Modell auf die Industrie-Hardware übertragen wird.
+  •	Das fertig trainierte Modell lässt sich direkt aus der Plattform heraus über einen bereitgestellten QR-Code auf einem Smartphone oder Tablet ausführen. Dies ermöglicht es den Schülern, die Zuverlässigkeit ihrer Bilderkennung auch ohne KI-Kamera zu testen, mbevor das Modell auf die Industrie-Hardware übertragen wird.
   
 **Vorteile der Eigenentwicklung gegenüber der Hersteller-Firmware**
 
 Obwohl die werksseitige Weboberfläche und die herstellereigene Trainingsplattform der Kamera (M5Stack V-Training) auf den ersten Blick ähnliche Funktionalitäten bieten, hat sich im Projektverlauf gezeigt, dass sie für den Unterrichtseinsatz deutliche funktionale Limitationen aufweisen. Die Entscheidung für eine maßgeschneiderte Software-Lösung in Kombination mit einer offeneren Plattform wie Edge Impulse begründet sich in folgenden Problemen des Originalsystems:
 
-  •	In der werksseitigen Weboberfläche werden aufgenommene Fotos lediglich im                   Arbeitsspeicher der Kamera abgelegt. Jedes Foto muss für das spätere Training einzeln       heruntergeladen werden.
-  •	Die herstellereigene Plattform zur Modellgenerierung erwies sich in der Erprobung als       unzuverlässig. In mehreren Zeiträumen brach der serverseitige Prozess im letzten            Schritt des Trainings (nach dem zeitaufwendigen Labeling) ab.
-  •	Auf der Plattform des Kameraherstellers werden hochgeladene Bilddaten nicht dauerhaft       projektbasiert gespeichert. Soll ein bestehendes Modell im Rahmen eines iterativen          Lernprozesses nachträglich um weitere Fotos ergänzt werden, muss der gesamte Prozess        (inklusive Labeling) von Grund auf neu durchgeführt werden.
-  •	Damit die Kamera ihre Erkennungsergebnisse per serieller Schnittstelle an den               Buskoppler ausgibt, muss nach jedem Neustart der Hardware zwingend die Weboberfläche im     Browser aufgerufen werden.
-  • Die Originalsoftware sendet jede Objekterkennung ungefiltert an die Steuerung. Die          notwendige Glättung der Signale zur Vermeidung von Fehlalarmen muss daher vollständig       im SPS-Programm (TwinCAT) abgebildet und bei Bedarf angepasst werden. Für                   SchülerInnen, die keine Erfahrung mit SPS-Programmierung haben, wirken die SPS-            Oberflächen jedoch recht überfrachtet und sind damit nicht ohne Einführung nutzbar.
+In der werksseitigen Weboberfläche werden aufgenommene Fotos lediglich im  Arbeitsspeicher der Kamera abgelegt. Jedes Foto muss für das spätere Training einzeln heruntergeladen werden.
+  
+Die herstellereigene Plattform zur Modellgenerierung erwies sich in der Erprobung als       unzuverlässig. In mehreren Zeiträumen brach der serverseitige Prozess im letzten Schritt des Trainings (nach dem zeitaufwendigen Labeling) ab.
+  
+Auf der Plattform des Kameraherstellers werden hochgeladene Bilddaten nicht dauerhaft       projektbasiert gespeichert. Soll ein bestehendes Modell im Rahmen eines iterativen Lernprozesses nachträglich um weitere Fotos ergänzt werden, muss der gesamte Prozess (inklusive Labeling) von Grund auf neu durchgeführt werden.
+  
+ Damit die Kamera ihre Erkennungsergebnisse per serieller Schnittstelle an den Buskoppler ausgibt, muss nach jedem Neustart der Hardware zwingend die Weboberfläche im Browser aufgerufen werden.
+  
+Die Originalsoftware sendet jede Objekterkennung ungefiltert an die Steuerung. Die notwendige Glättung der Signale zur Vermeidung von Fehlalarmen muss daher vollständig im SPS-Programm (TwinCAT) abgebildet und bei Bedarf angepasst werden. Für SchülerInnen, die keine Erfahrung mit SPS-Programmierung haben, wirken die SPS- Oberflächen jedoch recht überfrachtet und sind damit nicht ohne Einführung nutzbar.
 
 Die eigens für diesen Lernträger entwickelte Kamera-Software löst zusammen mit Edge Impulse diese Limitationen. Zudem bleibt das System flexibel, da sich die Kamerasoftware bei Bedarf über ein einfaches Skript in wenigen Sekunden wechseln lässt. Durch die gleich aufgebaute Ausgabe der eigens entwickelten Software, muss das SPS-Programm bei einem Wechsel von oder zu der M5Stack-Firmware nicht angepasst werden.
 
-Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL6001; M5Stack UnitV2-M12; UART-RS232 Transceiver; D-Sub-15-Kabel (Buchse); 24V-Netzteil; PC inkl. TwinCAT XAE Shell und Runtime (mit kostenlosen, unbegrenzt erneuerbaren 7-Tages-Lizenzen).
+**Genutzte Hardware:** Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL6001; M5Stack UnitV2-M12; UART-RS232 Transceiver; D-Sub-15-Kabel (Buchse); 24V-Netzteil; PC inkl. TwinCAT XAE Shell und Runtime (mit kostenlosen, unbegrenzt erneuerbaren 7-Tages-Lizenzen).
 
 ![Festo-Förderband mit KI-Kamera](2_foto_foerderband_mit_ki_kamera_ohne_hintergrund.png) ![Gesamtaufbau zusätzlich mit Buskoppler und Transceiver](2_1_foto_foerderband_und_busskoppler_ohne_hintergrund.png)
 
