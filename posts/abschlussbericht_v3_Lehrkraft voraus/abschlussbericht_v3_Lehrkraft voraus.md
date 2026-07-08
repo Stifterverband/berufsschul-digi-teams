@@ -6,7 +6,7 @@ categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Beruf
 
 ![](Deckblatt1.png)
 
-## 1.Einleitung und Projektüberblick
+## 1. Einleitung und Projektüberblick
 Die fortschreitende Digitalisierung und die rasante Entwicklung Künstlicher Intelligenz (KI) stellen das Bildungssystem vor neue Herausforderungen. Im Zentrum des verstetigten Projekts „LehrKraft voraus!“ steht daher die Ausgangsfrage: *Wie können angehende Lehrkräfte gewerblich-technischer Fachrichtungen künstliche Intelligenz nicht nur als isoliertes Unterrichtsthema, sondern auch als wirkungsvolles Werkzeug für die eigene Unterrichtsplanung und zur Unterstützung von Lehr-Lern-Prozessen didaktisch sinnvoll einsetzen?*
 
 Die Integration von KI in die berufliche Lehramtsausbildung (Master of Education) ist aus zwei Perspektiven von essenzieller Bedeutung:
@@ -17,7 +17,7 @@ Die Integration von KI in die berufliche Lehramtsausbildung (Master of Education
 
 Das Projekt befindet sich genau an dieser Schnittstelle und entwickelt ein kooperatives Seminarkonzept, in dem Studierende KI-bezogene Lernsituationen konzipieren, an einer beruflichen Schule erproben und wissenschaftlich fundiert reflektieren.
 
-## 2.Beteiligte Projektpartner
+## 2. Beteiligte Projektpartner
 Das Projekt zeichnet sich durch eine enge Verzahnung zwischen universitärer Lehrkräftebildung, schulischer Praxis und industrienahen Technologien aus.
 
 **Universität Paderborn**
@@ -34,7 +34,7 @@ Das Projekt zeichnet sich durch eine enge Verzahnung zwischen universitärer Leh
 
 **Wert der Kooperation:** Die Zusammenarbeit ist maßgeblich für den Projekterfolg. Durch die frühzeitige Einbindung des Berufskollegs konnten reale Bedarfe, spezifische Bildungsgänge und organisatorische Rahmenbedingungen berücksichtigt werden. Die theoretischen universitären Inhalte können durch die Studierenden selbst unmittelbar an echten Lerngruppen erprobt werden.
 
-## 3.Zielsetzung
+## 3. Zielsetzung
 Das primäre Ziel von „LehrKraft voraus!“ ist die gezielte Förderung der KI-Kompetenz und der Technologieakzeptanz bei Lehramtsstudierenden. Das didaktisch-methodische Konzept verfolgte eine dreifache Integration von KI:
     
   **1.	Präparativ (Unterrichtsplanung):** Nutzung generativer KI (wie ChatGPT oder Fobizz)     zur Ideenfindung (z. B. handlungsorientierte Einstiegsszenarien), Grob- und                 Feinplanung, sowie Erstellung didaktischer Materialien.
