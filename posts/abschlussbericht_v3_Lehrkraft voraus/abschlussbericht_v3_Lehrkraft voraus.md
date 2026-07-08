@@ -1,5 +1,5 @@
 ---
-title: "Abschlussbericht LehrKraft voraus!"
+title: "Universität Paderborn: LehrKraft voraus!"
 format: html
 categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
 ---
