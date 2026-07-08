@@ -63,7 +63,7 @@ Zur Kommunikation zwischen der Kamera und der Soft-SPS auf dem PC ist der folgen
 
 Auf der KI-Kamera läuft nativ eine Python-Anwendung. Diese nutzt ein neuronales Netz, um das Kamerabild in Echtzeit auszuwerten und Objekte zu klassifizieren. Das gewählte standardisierte TensorFlow-Lite-Format zeichnet sich durch eine hohe Offenheit und Plattformunabhängigkeit aus. Entsprechende Modelle lassen sich flexibel auf unterschiedlichen Plattformen (wie Edge Impulse) oder mittels eigenem Python-Code           generieren.
 
- Erkennt das KI-Modell ein Objekt, generiert es fortlaufend ein Datenpaket im JSON-Format. Es enthält die ermittelte Objektklasse sowie die prozentuale Sicherheit der Erkennung.
+Erkennt das KI-Modell ein Objekt, generiert es fortlaufend ein Datenpaket im JSON-Format. Es enthält die ermittelte Objektklasse sowie die prozentuale Sicherheit der Erkennung.
 
 Dieses JSON-Paket wird über die serielle UART/RS232-Verbindung an den Buskoppler und somit an die Soft-SPS auf dem PC geschickt.
 
@@ -115,7 +115,7 @@ Die herstellereigene Plattform zur Modellgenerierung erwies sich in der Erprobun
   
 Auf der Plattform des Kameraherstellers werden hochgeladene Bilddaten nicht dauerhaft       projektbasiert gespeichert. Soll ein bestehendes Modell im Rahmen eines iterativen Lernprozesses nachträglich um weitere Fotos ergänzt werden, muss der gesamte Prozess (inklusive Labeling) von Grund auf neu durchgeführt werden.
   
- Damit die Kamera ihre Erkennungsergebnisse per serieller Schnittstelle an den Buskoppler ausgibt, muss nach jedem Neustart der Hardware zwingend die Weboberfläche im Browser aufgerufen werden.
+Damit die Kamera ihre Erkennungsergebnisse per serieller Schnittstelle an den Buskoppler ausgibt, muss nach jedem Neustart der Hardware zwingend die Weboberfläche im Browser aufgerufen werden.
   
 Die Originalsoftware sendet jede Objekterkennung ungefiltert an die Steuerung. Die notwendige Glättung der Signale zur Vermeidung von Fehlalarmen muss daher vollständig im SPS-Programm (TwinCAT) abgebildet und bei Bedarf angepasst werden. Für SchülerInnen, die keine Erfahrung mit SPS-Programmierung haben, wirken die SPS- Oberflächen jedoch recht überfrachtet und sind damit nicht ohne Einführung nutzbar.
 
@@ -128,7 +128,7 @@ Die eigens für diesen Lernträger entwickelte Kamera-Software löst zusammen mi
 *Abbildung 2 Aufbau der Automatisierungstechnik. Oben: Festo-Förderband mit KI-Kamera. Unten: Gesamtaufbau zusätzlich mit Buskoppler und Transceiver*
 
 
-## 5.Seminarkonzept und Ergebnisse
+## 5. Seminarkonzept und Ergebnisse
 Das Seminar wurde im Rahmen eines dreiphasigen Design-Research-Ansatzes (nach Bakker) entwickelt und umfasst 6 ECTS bei 14 dreistündigen Sitzungen im Sommersemester 2025. Konkret handelt es sich um das Seminar „Fachdidaktische Projekte zur Planung, Erprobung und Analyse von langfristigem projektorientiertem Unterricht für die berufliche Ausbildung“.
 
 **Ablauf des Seminars**
