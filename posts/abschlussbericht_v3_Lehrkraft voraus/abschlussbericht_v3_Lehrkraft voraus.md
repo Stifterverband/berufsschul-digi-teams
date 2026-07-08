@@ -128,14 +128,14 @@ Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL
 Das Seminar wurde im Rahmen eines dreiphasigen Design-Research-Ansatzes (nach Bakker) entwickelt und umfasst 6 ECTS bei 14 dreistündigen Sitzungen im Sommersemester 2025. Konkret handelt es sich um das Seminar „Fachdidaktische Projekte zur Planung, Erprobung und Analyse von langfristigem projektorientiertem Unterricht für die berufliche Ausbildung“.
 
 **Ablauf des Seminars**
+![](Grafik_Seminarablauf.png)
 
-  •	Phase 1: Einführung (6 Wochen): Einführung in das kooperative Seminarkonzept sowie erstes Treffen mit der Kooperationsschule. Fachliche Einführung in das Thema der generativen KI (Unterscheidung KI, Machine Learning, Deep Learning), Funktionsweisen, Grenzen und Risiken generativer KI. Entwicklung der Szenarien der Lernsituationen. Zusätzlich Einführung in die kontinuierlichen, angeleiteten Reflexionsaufgaben zum          persönlichen KI-Einsatz, Inbetriebnahme der KI-Kamera, Grobplanung des Unterrichts.
+**Phase 1:** Einführung (6 Wochen): Einführung in das kooperative Seminarkonzept sowie erstes Treffen mit der Kooperationsschule. Fachliche Einführung in das Thema der generativen KI (Unterscheidung KI, Machine Learning, Deep Learning), Funktionsweisen, Grenzen und Risiken generativer KI. Entwicklung der Szenarien der Lernsituationen. Zusätzlich Einführung in die kontinuierlichen, angeleiteten Reflexionsaufgaben zum          persönlichen KI-Einsatz, Inbetriebnahme der KI-Kamera, Grobplanung des Unterrichts.
   
-  •	Phase 2: Erarbeitung und Planung (6 Wochen): Planung und Entwicklung der Lernsituationen (Feinplanung des Unterrichts, Entwicklung von Lernmaterialien). Zusätzlich kontinuierliche inhaltliche Inputs zum Einsatz (generativer) KI in der Unterrichtsplanung und -durchführung (bspw. Kennenlernen spezifischer Tools, Prompt Engineering, Entwicklung eigener Chatbots zur Lernendenunterstützung. Dabei ständige Rücksprachen auch mit den Lehrkräften des Berufskollegs.
+**Phase 2:** Erarbeitung und Planung (6 Wochen): Planung und Entwicklung der Lernsituationen (Feinplanung des Unterrichts, Entwicklung von Lernmaterialien). Zusätzlich kontinuierliche inhaltliche Inputs zum Einsatz (generativer) KI in der Unterrichtsplanung und -durchführung (bspw. Kennenlernen spezifischer Tools, Prompt Engineering, Entwicklung eigener Chatbots zur Lernendenunterstützung. Dabei ständige Rücksprachen auch mit den Lehrkräften des Berufskollegs.
   
-  •	Phase 3: Durchführung und Reflexion (2 Wochen): Reale Durchführung der entwickelten Lernsituationen am Lippe-Berufskolleg, gefolgt von einer tiefgehenden Reflexion des eigenen KI-Einsatzes und der SchülerInneninteraktionen (Beispiel einer geplanten Lernsituation der gewerblich-technischen Lehramtsstudierenden: https://www.taskcards.de/#/board/a63baec8-6341-414e-895f-d9bc81fa91b6?token=846eb116-       8779-4d59-aae3-49a7d89ceb2e)
+**Phase 3:** Durchführung und Reflexion (2 Wochen): Reale Durchführung der entwickelten Lernsituationen am Lippe-Berufskolleg, gefolgt von einer tiefgehenden Reflexion des eigenen KI-Einsatzes und der SchülerInneninteraktionen (Beispiel einer geplanten Lernsituation der gewerblich-technischen Lehramtsstudierenden: https://www.taskcards.de/#/board/a63baec8-6341-414e-895f-d9bc81fa91b6?token=846eb116-       8779-4d59-aae3-49a7d89ceb2e)
 
-   <iframe src="https://www.taskcards.de/#/board/a63baec8-6341-414e-895f-d9bc81fa91b6?token=846eb116-8779-4d59-aae3-49a7d89ceb2e" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe> 
    
 ## 6.	Materialien
 Im Rahmen des Projekts wurde ein umfassendes Set an Materialien entwickelt und erprobt.
