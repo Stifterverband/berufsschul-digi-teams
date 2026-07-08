@@ -128,7 +128,8 @@ Genutzte Hardware: Festo Meclab Förderband; Beckhoff EK1100, EL1008, EL2008, EL
 Das Seminar wurde im Rahmen eines dreiphasigen Design-Research-Ansatzes (nach Bakker) entwickelt und umfasst 6 ECTS bei 14 dreistündigen Sitzungen im Sommersemester 2025. Konkret handelt es sich um das Seminar „Fachdidaktische Projekte zur Planung, Erprobung und Analyse von langfristigem projektorientiertem Unterricht für die berufliche Ausbildung“.
 
 **Ablauf des Seminars**
-![](Grafik_Seminarablauf.png)
+
+![](4_Grafik Seminarablauf_v3.0.html)
 
 **Phase 1:** Einführung (6 Wochen): Einführung in das kooperative Seminarkonzept sowie erstes Treffen mit der Kooperationsschule. Fachliche Einführung in das Thema der generativen KI (Unterscheidung KI, Machine Learning, Deep Learning), Funktionsweisen, Grenzen und Risiken generativer KI. Entwicklung der Szenarien der Lernsituationen. Zusätzlich Einführung in die kontinuierlichen, angeleiteten Reflexionsaufgaben zum          persönlichen KI-Einsatz, Inbetriebnahme der KI-Kamera, Grobplanung des Unterrichts.
   
