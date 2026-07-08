@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        :root {
+            --sv-blue: #001a72;
+            --sv-blue-glow: rgba(0, 26, 114, 0.15);
+            --sv-light-blue: #f0f4fa;
+            --sv-accent: #a62675;
+            --sv-accent-light: rgba(166, 38, 117, 0.1);
+            --text-dark: #121212; /* Kontrast verbessert */
+            --text-muted: #2c2c2c; /* Kontrast verbessert */
+            --white: #ffffff;
+            --transition-smooth: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        .project-flow {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            max-width: 900px;
+            margin: 60px auto;
+            padding: 20px;
+            color: var(--text-dark);
+            line-height: 1.7;
+        }
+
+        /* 5) Typografie & Rhythmus */
+        .flow-header {
+            margin-bottom: 60px;
+        }
+
+        .flow-header h2 {
+            color: var(--sv-blue);
+            font-size: 2.2rem;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .timeline-wrapper {
+            position: relative;
+            padding-left: 50px;
+        }
+
+        /* 2) Dynamische Timeline Linie */
+        .timeline-wrapper::before {
+            content: '';
+            position: absolute;
+            left: 10px;
+            top: 0;
+            bottom: 0;
+            width: 5px;
+            background: linear-gradient(180deg, var(--sv-blue), var(--sv-accent), var(--sv-blue));
+            background-size: 100% 200%;
+            animation: gradientMove 6s linear infinite;
+            border-radius: 10px;
+        }
+
+        @keyframes gradientMove {
+            0% { background-position: 0% 0%; }
+            100% { background-position: 0% 200%; }
+        }
+
+        /* 3) Scroll-Reveal Initialzustand */
+        .reveal-node {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: var(--transition-smooth);
+        }
+
+        .reveal-node.is-visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* 1) Interaktive Cards */
+        .phase-card {
+            background: var(--white);
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            position: relative;
+            border: 2px solid transparent;
+            cursor: pointer;
+            transition: var(--transition-smooth);
+            outline: none;
+        }
+
+        .phase-card:hover {
+            transform: scale(1.02) translateX(10px);
+            border-color: var(--sv-blue);
+            box-shadow: 0 15px 40px var(--sv-blue-glow);
+        }
+
+        /* Keyboard Focus */
+        .phase-card:focus-visible {
+            border-color: var(--sv-accent);
+            box-shadow: 0 0 0 4px var(--sv-accent-light);
+            transform: scale(1.02) translateX(10px);
+        }
+
+        /* 2) Marker Puls-Effekt */
+        .phase-marker {
+            position: absolute;
+            left: -58px;
+            top: 30px;
+            width: 36px;
+            height: 36px;
+            background: var(--sv-blue);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            z-index: 2;
+            box-shadow: 0 0 0 0px rgba(0, 26, 114, 0.4);
+            transition: var(--transition-smooth);
+        }
+
+        .phase-card:hover .phase-marker {
+            background: var(--sv-accent);
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0px rgba(166, 38, 117, 0.4); }
+            70% { box-shadow: 0 0 0 15px rgba(166, 38, 117, 0); }
+            100% { box-shadow: 0 0 0 0px rgba(166, 38, 117, 0); }
+        }
+
+        .phase-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .phase-title {
+            margin: 0;
+            color: var(--sv-blue);
+            font-size: 1.5rem; /* 5) Größer */
+            font-weight: 700;
+        }
+
+        .duration-badge {
+            background: var(--sv-light-blue);
+            color: var(--sv-blue);
+            padding: 6px 14px;
+            border-radius: 30px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .content-list {
+            margin: 0;
+            padding-left: 1.2rem;
+            list-style-type: none;
+        }
+
+        .content-list li {
+            position: relative;
+            margin-bottom: 12px;
+            color: var(--text-muted); /* 5) Dunkler */
+        }
+
+        .content-list li::before {
+            content: "→";
+            position: absolute;
+            left: -1.5rem;
+            color: var(--sv-accent);
+            font-weight: bold;
+        }
+
+        /* 6) Interaktive Reflection-Bar */
+        .reflection-container {
+            position: sticky;
+            bottom: 20px;
+            z-index: 10;
+            margin-top: 20px;
+            transition: var(--transition-smooth);
+        }
+
+        .reflection-bar {
+            padding: 20px 25px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-left: 6px solid var(--sv-accent);
+            border-radius: 4px 12px 12px 4px;
+            box-shadow: 0 -5px 25px rgba(0,0,0,0.05), 0 10px 30px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            transition: var(--transition-smooth);
+        }
+
+        .reflection-bar:hover {
+            background: var(--white);
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(166, 38, 117, 0.15);
+        }
+
+        .reflection-bar strong {
+            color: var(--sv-accent);
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        @media (max-width: 600px) {
+            .timeline-wrapper { padding-left: 35px; }
+            .phase-marker { left: -45px; width: 30px; height: 30px; top: 25px; }
+            .reflection-container { position: relative; bottom: 0; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="project-flow">
+    <div class="flow-header reveal-node">
+        <h2>🚀 Seminarkonzept Ablauf</h2>
+    </div>
+
+    <div class="timeline-wrapper">
+        
+        <!-- Phase 1 -->
+        <div class="phase-card reveal-node" tabindex="0">
+            <div class="phase-marker">1</div>
+            <div class="phase-meta">
+                <h3 class="phase-title">📘 KI-Grundlagen & Fundierung</h3>
+                <span class="duration-badge">⏱ Woche 1-6</span>
+            </div>
+            <ul class="content-list">
+                <li>Technische & didaktische Einführung in KI-Systeme</li>
+                <li>Theoretischer Rahmen: DigCompEdu Referenzrahmen</li>
+                <li>Hands-on: Inbetriebnahme Festo-Anlage & KI-Kamera</li>
+            </ul>
+        </div>
+
+        <!-- Phase 2 -->
+        <div class="phase-card reveal-node" tabindex="0">
+            <div class="phase-marker">2</div>
+            <div class="phase-meta">
+                <h3 class="phase-title">🧩 Feinplanung & Didaktisches Design</h3>
+                <span class="duration-badge">⏱ Woche 7-12</span>
+            </div>
+            <ul class="content-list">
+                <li>Iterative Entwicklung von KI-Lernsituationen</li>
+                <li>Regelmäßiges Feedback-Loop mit Dozierenden & Lehrkräften</li>
+                <li>Vertiefende Workshops zur KI-Tool-Nutzung</li>
+            </ul>
+        </div>
+
+        <!-- Phase 3 -->
+        <div class="phase-card reveal-node" tabindex="0">
+            <div class="phase-marker">3</div>
+            <div class="phase-meta">
+                <h3 class="phase-title">🎓 Praxistransfer & Erprobung</h3>
+                <span class="duration-badge">⏱ Woche 13-15</span>
+            </div>
+            <ul class="content-list">
+                <li>Unterrichtsdurchführung am Lippe Berufskolleg</li>
+                <li>Echte Lerngruppen der gewerblich-technischen Fachrichtungen</li>
+                <li>Abschließende Reflexion des KI-Einsatzes</li>
+            </ul>
+        </div>
+
+        <!-- 6) Durchgängiges Element (Sticky) -->
+        <div class="reflection-container reveal-node">
+            <div class="reflection-bar">
+                <div style="font-size: 1.5rem;">🔄</div>
+                <div>
+                    <strong>Durchgängiges Element</strong>
+                    Angeleitete Reflexionsaufgaben nach Dewey zur Förderung der professionellen Handlungskompetenz im Umgang mit KI.
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    // 3) Scroll Reveal Logik
+    const observerOptions = {
+        threshold: 0.1
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('is-visible');
+            }
+        });
+    }, observerOptions);
+
+    document.querySelectorAll('.reveal-node').forEach(node => {
+        observer.observe(node);
+    });
+</script>
+
+</body>
+</html>
