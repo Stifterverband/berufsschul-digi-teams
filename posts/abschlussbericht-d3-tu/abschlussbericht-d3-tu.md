@@ -154,16 +154,6 @@ Das Projekt versteht sich ausdrücklich als transferfähiges Modell für eine ko
                                               2) [Future Class TU Berlin.pdf](Future_Class_TUBerlin.pdf)
                                               3) [Präsentation 35. Fachtagung Bundesarbeitsgemeinschaft für Berufsbildung ET IT MT FT.pdf](Präsentation_35.Fachtagung_Bundesarbeitsgemeinschaft_für_Berufsbildung_ET_IT_MT_FT.pdf)
   
-- Ausgewählte Unterrichtskonzepte und Materialien
-
-
-- [KI-Fotos.zip](KI_Fotos.zip)
-- [3D-Druck_Fotos.zip](3D-Druck.zip)
-- [3D-Druck_Fotos2.zip](3D-Druck_Fotos2.zip)
-- [3D-Druck_Fotos3.zip](3D-Druck_Fotos3.zip)
-- [Fotos.zip](Fotos_1.zip)
-- [Fotos_2.zip](Fotos_2.zip)
-- [Fotos_3.zip](Fotos_3.zip)
 
 **Veröffentlichungen**
 
