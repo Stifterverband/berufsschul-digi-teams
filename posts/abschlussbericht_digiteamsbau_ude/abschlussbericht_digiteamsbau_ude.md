@@ -1,6 +1,6 @@
 # UDE: DigiTeamsBau
 ## Digitale Kompetenzen als Querschnittsthema im Lehramtsstudium Bautechnik und Tiefbautechnik
-### Dr.-Ing. Christian K. Karl, Lisa Hielscher, Jacqueline Peter
+Dr.-Ing. Christian K. Karl, Lisa Hielscher, Jacqueline Peter
 
 ## Kurzüberblick
 DigiTeamsBau hat digitale Kompetenzen als Querschnittsthema in das Lehramtsstudium für das Berufskolleg in den beruflichen Fachrichtungen Bautechnik und Tiefbautechnik an der Universität Duisburg-Essen eingebaut, vom Bachelor bis zum Master. Fünf Pflichtmodule wurden erweitert. Aus ihnen sind offene Weiterbildungskurse für Lehrkräfte, Ausbilder:innen und Lehrende entstanden, die heute auf der Plattform **baukompetenz.digital** frei verfügbar sind (CC BY 4.0).
