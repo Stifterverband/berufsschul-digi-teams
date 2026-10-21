@@ -105,9 +105,13 @@ Das Projekt hat das bis dahin lose netzwerk bau:ausbildung genutzt und gestärkt
 
 ### Materialien zum Download und Nachnutzen
 •	**Weiterbildungskurse 1 bis 5** mit Foliensätzen und Lehrskripten: https://baukompetenz.digital/kurse/
+
 •	**Materialpool nach Themenfeldern:** https://baukompetenz.digital/themen/
+
 •	**Beispiele für den Einsatz der Materialien in den Lehramtsmodulen:** https://baukompetenz.digital/studium/
+
 •	**Lizenz und Musterangabe zur Namensnennung:** https://baukompetenz.digital/lizenz/
+
 •	**Projektseite der UDE:** https://www.uni-due.de/bautechnik/digiteamsbau.php
 
 ## Kontakt
