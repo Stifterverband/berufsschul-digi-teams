@@ -118,6 +118,8 @@ Redecker, C. (2017). European Framework for the Digital Competence of Educators:
 
 ## Eigene Veröffentlichungen zu dem Projekt
 Projektteam: Karl, Christian K.; Hielscher, Lisa; Peter, Jacqueline
+-
+
 Karl, C. K., Hielscher, L., & Peter, J. (2025, 18. März). DigiTeamsBau: Integration digitaler Kompetenzen in der Lehramtsausbildung (Bau- und Tiefbautechnik) [Vortrag]. Hochschultage Berufliche Bildung 2025, Paderborn.
 
 Karl, C. K., Peter, J., & Hielscher, L. (2025). Auswirkungen durch die Nutzung von KI in der bautechnischen Lehre. In F. F. Mersch, M. Schweder & A. Zopff (Hrsg.), Berufliche Bildung zwischen Transformation und Tradition: Ergebnisse der Fachtagung Bau, Holz, Farbe und Raumgestaltung 2025 (23. Hochschultage Berufliche Bildung, 17.–19. März 2025, Universität Paderborn). BoD – Books on Demand.
