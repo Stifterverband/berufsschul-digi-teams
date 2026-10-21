@@ -57,6 +57,7 @@ Ein Teil des Projekts stand im Antrag noch nicht, weil er vor ChatGPT geschriebe
 2.	Ein Sprachmodell (ChatGPT) entwirft Skript bzw. Storyline.
 3.	Bildgenerierung (Midjourney), Videogenerierung (Luma AI) und Sprachsynthese (ElevenLabs) erzeugen die Medien.
 4.	Schnitt und Zusammenstellung zu einem Lernmodul zur Einbindung in Moodle.
+
 **Was dabei herauskommt und was nicht.** Der Ablauf liefert brauchbare Einführungen und Lehrvideos in einem Bruchteil der Zeit. Er liefert aber nichts, was ohne fachliche Prüfung einsetzbar wäre. Gerade bei normativen, sicherheitsrelevanten Bauinhalten erfinden Sprachmodelle Details oder vermischen Regelwerke. Der eigentliche Engpass verschiebt sich deshalb von der Erstellung zur Prüfung. Unser Grundsatz: Die KI entwirft, die Lehrkraft verantwortet. Jedes Material wurde fachlich geprüft, rechtliche Aussagen (z. B. zu KI-Verordnung und Urheberrecht) wurden an den Quellen kontrolliert, und alle Materialien tragen den Hinweis „Erstellt unter Einsatz von KI-Werkzeugen und fachlich geprüft“.
 Der Unterschied zu massenhaft erzeugtem Material aus Lehrplattformen liegt nicht im Werkzeug, sondern im Ablauf: feste Lernziele vorab, ein klarer Fachbezug, Prüfung vor Veröffentlichung und eine offene Lizenz, unter der Fehler gemeldet und korrigiert werden können.
 
@@ -95,6 +96,7 @@ Das Projekt hat das bis dahin lose netzwerk bau:ausbildung genutzt und gestärkt
 **2. Trends gehören ins Grundstudium.** Studierende unterrichten erst Jahre später. Deshalb sollte das Grundlagenmodul nicht nur den Stand der Technik, sondern auch Entwicklungen zeigen und vor allem die Kompetenz üben, sich neue Werkzeuge selbst zu erschließen. Das Format „Trend Radar“ hat sich dafür bewährt.
 
 **3. KI beschleunigt die Erstellung, nicht die Qualitätssicherung.** Mit einem festen Ablauf lassen sich Lehrmaterialien schnell erzeugen. Planen Sie aber mindestens so viel Zeit für die fachliche Prüfung ein wie für die Erstellung, und kennzeichnen Sie KI-gestützte Materialien.
+
 **4. Material mit Lehrskript wird nachgenutzt, Folien allein kaum.** Ein Foliensatz ohne Erläuterung hilft anderen Lehrenden wenig. Ein Lehrskript je Einheit macht den Unterschied.
 
 **5. Offene Lizenz von Anfang an.** Wer früh entscheidet, alles unter CC BY 4.0 zu veröffentlichen, vermeidet fremde Abbildungen und spart am Ende die aufwendige Rechteklärung.
