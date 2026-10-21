@@ -5,7 +5,7 @@ Dr.-Ing. Christian K. Karl, Lisa Hielscher, Jacqueline Peter
 ## Kurzüberblick
 DigiTeamsBau hat digitale Kompetenzen als Querschnittsthema in das Lehramtsstudium für das Berufskolleg in den beruflichen Fachrichtungen Bautechnik und Tiefbautechnik an der Universität Duisburg-Essen eingebaut, vom Bachelor bis zum Master. Fünf Pflichtmodule wurden erweitert. Aus ihnen sind offene Weiterbildungskurse für Lehrkräfte, Ausbilder:innen und Lehrende entstanden, die heute auf der Plattform **baukompetenz.digital** frei verfügbar sind (CC BY 4.0).
 
-## Auf einen Blick
+### Auf einen Blick
 - **Hochschule:** Universität Duisburg-Essen, Lehr- und Forschungsbereich Fachdidaktik Bautechnik
 - **Studiengänge:** B.Sc. und M.Ed. Lehramt an Berufskollegs, berufliche Fachrichtungen Bautechnik und Tiefbautechnik
 - **Förderung:** Berufsschul-Digi-Teams, 1. Förderrunde 2023/24 (Stifterverband gemeinsam mit dem Mercedes-Benz Fonds)
@@ -19,8 +19,10 @@ DigiTeamsBau hat digitale Kompetenzen als Querschnittsthema in das Lehramtsstudi
 - Die Autobahn GmbH des Bundes (Bauwirtschaft, Hoch- und Tiefbau)
 - Mario Herger (Technologie- und Trendforscher)
 - netzwerk bau:ausbildung (Praktiker:innen und Didaktiker:innen aus Schule, überbetrieblicher Ausbildung, Industrie, Handwerk und Hochschule)
+
 ### Themenschwerpunkte
 Digitalisierung im Bauwesen (BIM, VR/AR, Robotik, KI) · digitaler Unterricht und digitale Diagnostik · Digital Mindset · KI-gestützte Erstellung von Lehrmaterial · Open Educational Resources
+
 ## Ausgangslage und Projektidee
 Die Bauwirtschaft digitalisiert sich schnell: Building Information Modeling (BIM), digitale Vermessung, vernetzte Baustellen und zunehmend KI verändern Arbeitsprozesse in Planung und Ausführung. Lehramtsstudierende der Bautechnik kommen erst rund drei Jahre nach ihren Grundlagenmodulen an die Schule. Was sie im dritten Semester als Stand der Technik lernen, ist dann oft schon überholt.
 Vor dem Projekt war Digitalisierung im Studiengang vorhanden, aber verstreut: ein Grundlagenmodul, ein Modul mit kleinen Programmierprojekten und drei Wahlveranstaltungen zur digitalen Transformation, die nur ein Teil der Studierenden besuchte.
@@ -79,15 +81,24 @@ Das Projekt hat das bis dahin lose netzwerk bau:ausbildung genutzt und gestärkt
 
 ## Abweichungen vom Plan
 •	**KI kam hinzu.** Der Antrag stammt aus der Zeit vor ChatGPT. Generative KI wurde im Projekt zuerst Werkzeug (EDU AI-Assist) und dann eigener Inhalt der Lehre. Die Erfahrungen flossen in das parallele Projekt KI4Edu und umgekehrt.
+
 •	**Die Materialien wurden umfangreicher als geplant.** Statt eines exportierten Online-Kurses je Modul entstanden vollständige Foliensätze mit Lehrskripten, damit andere sie tatsächlich übernehmen können. Das hat Zeit gekostet und die Veröffentlichung über das Förderende hinaus verschoben.
+
 •	**Eigene Plattform statt Moodle-Export.** Moodle-Kurse lassen sich zwischen Hochschulen nur mühsam austauschen und enthalten oft Material mit fremden Rechten. Eine einfache, statische Webseite mit Downloads unter offener Lizenz ist für Nachnutzende zugänglicher.
+
 •	**Die Evaluation blieb schmal.** Die Erprobung lief in den regulären Semestern mit kleinen Kohorten. Belastbare Aussagen zur Wirkung auf Kompetenzen sind damit nur punktuell möglich. Eine Nutzung der Materialien in anderen Digi-Teams-Kohorten und gemeinsame Evaluierung inkl. Publikation würde sich anbieten.
+
+
 ## Zum Mitnehmen
 **1. Digitalisierung als roter Faden statt als Zusatzmodul.** Wer Digitalisierung nur in einem Modul behandelt, erreicht Studierende einmal. Wer sie in jedes Modul einwebt, macht sie zum normalen Bestandteil des Fachs. Der Aufwand dafür ist geringer als ein neues Modul, weil bestehende Modulziele erweitert und nicht neu beantragt werden.
+
 **2. Trends gehören ins Grundstudium.** Studierende unterrichten erst Jahre später. Deshalb sollte das Grundlagenmodul nicht nur den Stand der Technik, sondern auch Entwicklungen zeigen und vor allem die Kompetenz üben, sich neue Werkzeuge selbst zu erschließen. Das Format „Trend Radar“ hat sich dafür bewährt.
+
 **3. KI beschleunigt die Erstellung, nicht die Qualitätssicherung.** Mit einem festen Ablauf lassen sich Lehrmaterialien schnell erzeugen. Planen Sie aber mindestens so viel Zeit für die fachliche Prüfung ein wie für die Erstellung, und kennzeichnen Sie KI-gestützte Materialien.
 **4. Material mit Lehrskript wird nachgenutzt, Folien allein kaum.** Ein Foliensatz ohne Erläuterung hilft anderen Lehrenden wenig. Ein Lehrskript je Einheit macht den Unterschied.
+
 **5. Offene Lizenz von Anfang an.** Wer früh entscheidet, alles unter CC BY 4.0 zu veröffentlichen, vermeidet fremde Abbildungen und spart am Ende die aufwendige Rechteklärung.
+
 **6. Ein Netzwerk hält Inhalte aktuell, wenn es einen festen Rhythmus hat.** Einmalige Treffen bringen Ideen, regelmäßige Rückkopplung bringt Qualität.
 
 ### Materialien zum Download und Nachnutzen
@@ -96,6 +107,7 @@ Das Projekt hat das bis dahin lose netzwerk bau:ausbildung genutzt und gestärkt
 •	**Beispiele für den Einsatz der Materialien in den Lehramtsmodulen:** https://baukompetenz.digital/studium/
 •	**Lizenz und Musterangabe zur Namensnennung:** https://baukompetenz.digital/lizenz/
 •	**Projektseite der UDE:** https://www.uni-due.de/bautechnik/digiteamsbau.php
+
 ## Kontakt
 Dr.-Ing. Christian K. Karl Universität Duisburg-Essen, Lehr- und Forschungsbereich Fachdidaktik Bautechnik Universitätsstraße 15, 45141 Essen christian.karl@uni-due.de · https://www.uni-due.de/bautechnik
 
@@ -103,10 +115,15 @@ Dr.-Ing. Christian K. Karl Universität Duisburg-Essen, Lehr- und Forschungsbere
 Karl, C. K. (2021). BIM-Kompetenz und BIM-Lernfelder: Didaktischer Ansatz zur Umsetzung in der Beruflichen Bildung im Bauwesen (report fachdidaktik bau:technik, Nr. 1). Universität Duisburg-Essen. https://doi.org/10.17185/duepublico/73670
 Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A framework for teacher knowledge. Teachers College Record, 108(6), 1017–1054.
 Redecker, C. (2017). European Framework for the Digital Competence of Educators: DigCompEdu (Y. Punie, Hrsg.). Publications Office of the European Union. https://doi.org/10.2760/159770
+
 ## Eigene Veröffentlichungen zu dem Projekt
 Projektteam: Karl, Christian K.; Hielscher, Lisa; Peter, Jacqueline
 Karl, C. K., Hielscher, L., & Peter, J. (2025, 18. März). DigiTeamsBau: Integration digitaler Kompetenzen in der Lehramtsausbildung (Bau- und Tiefbautechnik) [Vortrag]. Hochschultage Berufliche Bildung 2025, Paderborn.
+
 Karl, C. K., Peter, J., & Hielscher, L. (2025). Auswirkungen durch die Nutzung von KI in der bautechnischen Lehre. In F. F. Mersch, M. Schweder & A. Zopff (Hrsg.), Berufliche Bildung zwischen Transformation und Tradition: Ergebnisse der Fachtagung Bau, Holz, Farbe und Raumgestaltung 2025 (23. Hochschultage Berufliche Bildung, 17.–19. März 2025, Universität Paderborn). BoD – Books on Demand.
+
 Peter, J., Karl, C. K., & Hielscher, L. (2025, 16.–17. September). EDU AI-Assist: Effizienter unterrichten im digitalen Zeitalter [Vortrag]. KISS-Pro Tagung, Potsdam.
+
 Peter, J., & Karl, C. K. (2025, 29.–30. September). EDU AI-Assist: KI-gestützte adaptive Lehrmodule für die Hochschullehre [Vortrag]. Turn Conference 2025, Darmstadt. https://turn-conference.org/paper/edu-ai-assist-ki-gestuetzte-adaptive-lehrmodule-fuer-die-hochschullehre/
+
 Karl, C., Hielscher, L., & Peter, J. (2026). KI in der Hochschulbildung: Co-intelligente Lehr-Lernprozesse und kompetenzorientierte Prüfungskultur (report fachdidaktik bau:technik). Universität Duisburg-Essen. https://doi.org/10.17185/duepublico/85421
