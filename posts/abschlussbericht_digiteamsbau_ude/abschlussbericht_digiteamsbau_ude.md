@@ -115,7 +115,9 @@ Das Projekt hat das bis dahin lose netzwerk bau:ausbildung genutzt und gestärkt
 •	**Projektseite der UDE:** https://www.uni-due.de/bautechnik/digiteamsbau.php
 
 ## Kontakt
-Dr.-Ing. Christian K. Karl Universität Duisburg-Essen, Lehr- und Forschungsbereich Fachdidaktik Bautechnik Universitätsstraße 15, 45141 Essen christian.karl@uni-due.de · https://www.uni-due.de/bautechnik
+Dr.-Ing. Christian K. Karl Universität Duisburg-Essen, Lehr- und Forschungsbereich Fachdidaktik Bautechnik
+Universitätsstraße 15, 45141 Essen 
+christian.karl@uni-due.de · https://www.uni-due.de/bautechnik
 
 ## Literatur
 Karl, C. K. (2021). BIM-Kompetenz und BIM-Lernfelder: Didaktischer Ansatz zur Umsetzung in der Beruflichen Bildung im Bauwesen (report fachdidaktik bau:technik, Nr. 1). Universität Duisburg-Essen. https://doi.org/10.17185/duepublico/73670
