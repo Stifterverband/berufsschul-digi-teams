@@ -117,8 +117,8 @@ Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge
 Redecker, C. (2017). European Framework for the Digital Competence of Educators: DigCompEdu (Y. Punie, Hrsg.). Publications Office of the European Union. https://doi.org/10.2760/159770
 
 ## Eigene Veröffentlichungen zu dem Projekt
-Projektteam: Karl, Christian K.; Hielscher, Lisa; Peter, Jacqueline
--
+*Projektteam: Karl, Christian K.; Hielscher, Lisa; Peter, Jacqueline*
+
 
 Karl, C. K., Hielscher, L., & Peter, J. (2025, 18. März). DigiTeamsBau: Integration digitaler Kompetenzen in der Lehramtsausbildung (Bau- und Tiefbautechnik) [Vortrag]. Hochschultage Berufliche Bildung 2025, Paderborn.
 
