@@ -119,7 +119,9 @@ Dr.-Ing. Christian K. Karl Universität Duisburg-Essen, Lehr- und Forschungsbere
 
 ## Literatur
 Karl, C. K. (2021). BIM-Kompetenz und BIM-Lernfelder: Didaktischer Ansatz zur Umsetzung in der Beruflichen Bildung im Bauwesen (report fachdidaktik bau:technik, Nr. 1). Universität Duisburg-Essen. https://doi.org/10.17185/duepublico/73670
+
 Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A framework for teacher knowledge. Teachers College Record, 108(6), 1017–1054.
+
 Redecker, C. (2017). European Framework for the Digital Competence of Educators: DigCompEdu (Y. Punie, Hrsg.). Publications Office of the European Union. https://doi.org/10.2760/159770
 
 ## Eigene Veröffentlichungen zu dem Projekt
