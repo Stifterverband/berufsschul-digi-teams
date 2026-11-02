@@ -12,7 +12,15 @@ listing:
 
 ![](logos/svlog.png){width="20%" fig-align="center"}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## Berufsschul-Digi-Teams
+
+Die auf dieser Seite vorgestellten Projekte sind Teil des Förderprogramms **„Berufsschul-Digi-Teams"** des **Stifterverbands** und des **Mercedes-Benz Fonds**. Das Programm unterstützt Hochschulen dabei, digitale Kompetenzen in der beruflichen Lehrkräftebildung nachhaltig zu verankern und innovative Lehr-Lern-Konzepte für das Berufsschullehramt zu entwickeln. 【1-858af1】【2-2a63e0】
+
+Über die Programmlaufzeit bis 2027 werden jährlich fünf Projekte mit jeweils 50.000 Euro gefördert. Insgesamt stehen 1,25 Millionen Euro für die Entwicklung, Erprobung und Verbreitung innovativer Ansätze zur digitalen Transformation der beruflichen Bildung zur Verfügung.
+
+Die nachfolgenden Projektseiten dokumentieren die geförderten Vorhaben, ihre Materialien und Ergebnisse und sollen den Austausch sowie den Transfer erfolgreicher Konzepte unterstützen.
+
+**Weitere Informationen:** https://www.stifterverband.org/berufsschul-digi-teams
 
 ::: {#listings}
 :::
