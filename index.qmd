@@ -14,13 +14,15 @@ listing:
 
 ## Berufsschul-Digi-Teams
 
-Die auf dieser Seite vorgestellten Projekte sind Teil des Förderprogramms **„Berufsschul-Digi-Teams"** des **Stifterverbands** und des **Mercedes-Benz Fonds**. Das Programm unterstützt Hochschulen dabei, digitale Kompetenzen in der beruflichen Lehrkräftebildung nachhaltig zu verankern und innovative Lehr-Lern-Konzepte für das Berufsschullehramt zu entwickeln. 【1-858af1】【2-2a63e0】
+Die auf dieser Website dokumentierten Projekte sind Teil des Förderprogramms **Berufsschul-Digi-Teams** des Stifterverbands und des Mercedes-Benz Fonds. Mit einem Gesamtvolumen von über 1,25 Millionen Euro werden bis 2027 jährlich fünf Hochschulprojekte mit jeweils 50.000 Euro gefördert. Ziel ist es, digitale Kompetenzen und innovative Lehr-/Lernmodule nachhaltig in der beruflichen Lehrkräftebildung zu verankern.
 
-Über die Programmlaufzeit bis 2027 werden jährlich fünf Projekte mit jeweils 50.000 Euro gefördert. Insgesamt stehen 1,25 Millionen Euro für die Entwicklung, Erprobung und Verbreitung innovativer Ansätze zur digitalen Transformation der beruflichen Bildung zur Verfügung.
+Die Projekte entwickeln und erproben gemeinsam mit Berufsschulen und Ausbildungsbetrieben Konzepte, die angehende Berufsschullehrkräfte auf die Anforderungen einer zunehmend digital geprägten Arbeits- und Bildungswelt vorbereiten. Die hier bereitgestellten Berichte, Materialien und Ergebnisse sollen den Austausch zwischen den Projekten fördern und den Transfer erfolgreicher Ansätze unterstützen.
 
-Die nachfolgenden Projektseiten dokumentieren die geförderten Vorhaben, ihre Materialien und Ergebnisse und sollen den Austausch sowie den Transfer erfolgreicher Konzepte unterstützen.
+Weitere Informationen zum Förderprogramm bietet die Website des Stifterverbands: https://www.stifterverband.org/berufsschul-digi-teams.
 
-**Weitere Informationen:** https://www.stifterverband.org/berufsschul-digi-teams
+**Weitere Informationen:**
+https://www.stifterverband.org/berufsschul-digi-teams
+https://www.zukunftsmission-bildung.de/lehrkraefte
 
 ::: {#listings}
 :::
