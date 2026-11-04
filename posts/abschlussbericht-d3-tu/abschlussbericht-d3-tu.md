@@ -1,7 +1,7 @@
 ---
 title: "TU Berlin: D³@TU macht Schule"
 format: html
-categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
+categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Ingenieurwissenschaften', 'Praxisorientierung']
 ---
 
 **Gliederung**
