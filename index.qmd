@@ -13,7 +13,7 @@ listing:
 
 <div class="text-center">
 
-![](logos/svlog.png){width="10%"}  ## Berufsschul-Digi-Teams
+![](logos/svlog.png){width="10%"}  ##Berufsschul-Digi-Teams
 
 </div>
 
