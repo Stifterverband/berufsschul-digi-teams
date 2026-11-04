@@ -2,7 +2,7 @@
 title: "UDE: DigiTeamsBau"
 subtitle: "Digitale Kompetenzen als Querschnittsthema im Lehramtsstudium Bautechnik und Tiefbautechnik"
 format: html
-categories: ['Bautechnik', 'Curriculumentwicklung', 'OER', 'Künstliche Intelligenz', 'Berufsschul-Digi-Teams', 'Projektbericht']
+categories: ['Bautechnik', 'Curriculumentwicklung', 'OER', 'Künstliche Intelligenz', 'Weiterbildung']
 --- 
 
 *Projektteam:*
