@@ -1,19 +1,20 @@
 ---
-title: "Berufsschul-Digi-Teams"
-title-block-style: none
+title: ""
 listing:
   contents: posts
   sort: "author"
   type: grid
-  categories: true  # Dies aktiviert die klickbaren Filter rechts
+  categories: true
   fields: [title, author, categories, image]
   filter-ui: true
   page-size: 30
 ---
 
-<div class="text-center">
+<div style="display:flex; justify-content:center; align-items:center; gap:20px; margin-bottom:2rem;">
 
-![](logos/svlog.png){width="10%"}  ##Berufsschul-Digi-Teams
+<img src="logos/svlog.png" width="90">
+
+<h1 style="margin:0;">Berufsschul-Digi-Teams</h1>
 
 </div>
 
