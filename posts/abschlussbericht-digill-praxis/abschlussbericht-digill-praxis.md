@@ -1,7 +1,7 @@
 ---
 title: "RPTU: DIGILL@Praxis"
 format: html
-categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
+categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Unterrichtspraxis', 'Metalltechnik', 'Elektrotechnik', 'Informatik']
 ---
 
 # Konzeptioneller Hintergrund des Projekts
