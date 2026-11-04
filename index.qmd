@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Berufsschul-Digi-Teams"
+title-block-style: none
 listing:
   contents: posts
   sort: "author"
@@ -12,7 +13,9 @@ listing:
 
 <div class="text-center">
 
-![](logos/svlog.png){width="20%"} # Berufsschul-Digi-Teams
+![](logos/svlog.png){width="20%"} 
+
+# Berufsschul-Digi-Teams
 
 </div>
 
