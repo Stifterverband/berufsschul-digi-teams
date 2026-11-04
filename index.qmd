@@ -10,9 +10,9 @@ listing:
   page-size: 30
 ---
 
-<div style="display:flex; justify-content:center; align-items:center; gap:20px; margin-bottom:2rem;">
+<div style="display:flex; justify-content:center; align-items:center; gap:10px; margin-bottom:2rem;">
 
-<img src="logos/svlog.png" width="90">
+<img src="logos/svlog.png" width="120">
 
 <h1 style="margin:0;">Berufsschul-Digi-Teams</h1>
 
