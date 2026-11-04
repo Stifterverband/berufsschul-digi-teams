@@ -1,7 +1,7 @@
 ---
 title: "Universität Paderborn: LehrKraft voraus!"
 format: html
-categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Berufsschul-Digi-Teams', 'Projektbericht']
+categories: ['Digitalisierung', 'Unterricht', 'Didaktik', 'Berufsschule', 'Künstliche Intelligenz']
 ---
 
 ![](Deckblatt1.png)
