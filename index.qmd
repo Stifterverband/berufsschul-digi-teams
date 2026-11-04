@@ -1,5 +1,6 @@
+
 ---
-title: "Berufsschul-Digi-Teams"
+title: ![](logos/svlog.png){width="20%" fig-align="center"} "Berufsschul-Digi-Teams"
 listing:
   contents: posts
   sort: "author"
@@ -10,7 +11,7 @@ listing:
   page-size: 30
 ---
 
-![](logos/svlog.png){width="20%" fig-align="center"}
+
 
 Die auf dieser Website dokumentierten Projekte sind Teil des Förderprogramms **Berufsschul-Digi-Teams** des **Stifterverbands** und des **Mercedes-Benz Fonds**. Mit einem Gesamtvolumen von über 1,25 Millionen Euro werden bis 2027 jährlich fünf Hochschulprojekte mit jeweils 50.000 Euro gefördert. Ziel ist es, digitale Kompetenzen und innovative Lehr-/Lernmodule nachhaltig in der beruflichen Lehrkräftebildung zu verankern.
 
