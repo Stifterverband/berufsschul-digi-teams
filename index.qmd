@@ -1,6 +1,6 @@
-
+![](logos/svlog.png){width="20%" fig-align="center"}
 ---
-title:  "![](logos/svlog.png){width="20%" fig-align="center"} Berufsschul-Digi-Teams"
+title:  "Berufsschul-Digi-Teams"
 listing:
   contents: posts
   sort: "author"
