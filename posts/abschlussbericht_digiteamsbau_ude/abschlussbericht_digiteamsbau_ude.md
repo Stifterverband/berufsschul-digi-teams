@@ -11,7 +11,6 @@ Dr.-Ing. Christian K. Karl, Lisa Hielscher, Jacqueline Peter
 ## Kurzüberblick
 DigiTeamsBau hat digitale Kompetenzen als Querschnittsthema in das Lehramtsstudium für das Berufskolleg in den beruflichen Fachrichtungen Bautechnik und Tiefbautechnik an der Universität Duisburg-Essen eingebaut, vom Bachelor bis zum Master. Fünf Pflichtmodule wurden erweitert. Aus ihnen sind offene Weiterbildungskurse für Lehrkräfte, Ausbilder:innen und Lehrende entstanden, die heute auf der Plattform **baukompetenz.digital** frei verfügbar sind (CC BY 4.0).
 
-### Auf einen Blick
 - **Hochschule:** Universität Duisburg-Essen, Lehr- und Forschungsbereich Fachdidaktik Bautechnik
 - **Studiengänge:** B.Sc. und M.Ed. Lehramt an Berufskollegs, berufliche Fachrichtungen Bautechnik und Tiefbautechnik
 - **Förderung:** Berufsschul-Digi-Teams, 1. Förderrunde 2023/24 (Stifterverband gemeinsam mit dem Mercedes-Benz Fonds)
@@ -27,7 +26,11 @@ DigiTeamsBau hat digitale Kompetenzen als Querschnittsthema in das Lehramtsstudi
 - netzwerk bau:ausbildung (Praktiker:innen und Didaktiker:innen aus Schule, überbetrieblicher Ausbildung, Industrie, Handwerk und Hochschule)
 
 ### Themenschwerpunkte
-Digitalisierung im Bauwesen (BIM, VR/AR, Robotik, KI) · digitaler Unterricht und digitale Diagnostik · Digital Mindset · KI-gestützte Erstellung von Lehrmaterial · Open Educational Resources
+Digitalisierung im Bauwesen (BIM, VR/AR, Robotik, KI) 
+· digitaler Unterricht und digitale Diagnostik 
+· Digital Mindset 
+· KI-gestützte Erstellung von Lehrmaterial 
+· Open Educational Resources
 
 ## Ausgangslage und Projektidee
 Die Bauwirtschaft digitalisiert sich schnell: Building Information Modeling (BIM), digitale Vermessung, vernetzte Baustellen und zunehmend KI verändern Arbeitsprozesse in Planung und Ausführung. Lehramtsstudierende der Bautechnik kommen erst rund drei Jahre nach ihren Grundlagenmodulen an die Schule. Was sie im dritten Semester als Stand der Technik lernen, ist dann oft schon überholt.
@@ -40,14 +43,16 @@ Orientierung gaben der europäische Kompetenzrahmen DigCompEdu (Redecker, 2017),
 ## Umsetzung im Studium
 Die Arbeit lief in zwei Durchgängen, zuerst im Master, dann im Bachelor. Jeder Durchgang folgte dem gleichen Ablauf: Konzept, Rückkopplung im Netzwerk, Entwicklung, Erprobung im Semester, Überarbeitung, Aufbereitung als offenes Material.
 
-### Master of Education
+ **Master of Education**
+ 
 | Modul | Erweiterung | Aufgabe für Studierende |
 |---------|---------|---------|
 | Fachdidaktik I | Lehr-Lernarrangements mit flankierender virtueller Lernumgebung | ein Lehr-Lernarrangement mit virtueller Lernumgebung gestalten |
 | Fachdidaktik II | digitalisierte Diagnostik und Lernstandskontrolle | eine digitale Lernstandskontrolle konzipieren, durchführen und auswerten |
 | Vorbereitung Praxissemester | Digital Mindset; digitaler Unterricht unter sozialen, strukturellen und rechtlichen Rahmenbedingungen | einen spielerischen Ansatz zur Förderung von Digital Mindset entwerfen; digitalen Unterricht konzipieren |
 
-### Bachelor of Science
+**Bachelor of Science**
+
 | Modul | Erweiterung |
 |---------|---------|
 | Grundlagen Digitalisierung im Bauwesen (3. Semester) | aktuelle Technologien und Trends statt nur Stand der Technik; Workshop „Trend Radar“, in dem Studierende selbst Entwicklungen erfassen und vorstellen; Verbindung zum 3D-Makerspace der UDE |
