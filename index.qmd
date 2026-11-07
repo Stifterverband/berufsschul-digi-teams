@@ -1,5 +1,6 @@
 ---
 title: ""
+anchor-sections: false
 listing:
   contents: posts
   sort: author
@@ -32,6 +33,6 @@ Auf den folgenden Seiten stellen die Projektteams ihre Ideen, Materialien, Erfah
 
 ## Weitere Informationen
 
-- [Berufsschul-Digi-Teams beim Stifterverband](https://www.stifterverband.org/berufsschul-digi-teams)
-- [Allianz Lehrkräftebildung für die berufliche Bildung](https://www.zukunftsmission-bildung.de/lehrkraefte)
+- [https://www.stifterverband.org/berufsschul-digi-teams](https://www.stifterverband.org/berufsschul-digi-teams)
+- [https://www.zukunftsmission-bildung.de/lehrkraefte](https://www.zukunftsmission-bildung.de/lehrkraefte)
 
