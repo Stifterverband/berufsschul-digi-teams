@@ -10,13 +10,11 @@ listing:
   page-size: 30
 ---
 
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:2rem; margin-left:8%;">
-
-<img src="logos/svlog.png", "logos/MB_Logo.png" width="110">
-
-<h1 style="margin:0;">Berufsschul-Digi-Teams</h1>
-
+<div style="display:flex; justify-content:center; align-items:center; gap:40px; margin-bottom:20px;">
+  <img src="logos/svlog.png" height="90">
+  <img src="logos/MB_Logo.png" height="90">
 </div>
+<h1 style="margin:0;">Berufsschul-Digi-Teams</h1>
 
 Die auf dieser Website vorgestellten Projekte sind Teil des Förderprogramms **Berufsschul-Digi-Teams** des **Stifterverbands** und des **Mercedes-Benz Fonds**. Mit einem Gesamtvolumen von über 1,25 Millionen Euro werden bis 2027 jährlich fünf Hochschulprojekte mit jeweils 50.000 Euro gefördert. Ziel des Programms ist es, digitale Kompetenzen und innovative Lehr-/Lernangebote dauerhaft in der beruflichen Lehrkräftebildung zu verankern.
 
