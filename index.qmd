@@ -12,17 +12,15 @@ listing:
 
 ::: {.text-center}
 
-logos/svlog.png{height="60px"}
+logos/svlog.png{height="70px"}
 &nbsp;&nbsp;&nbsp;
-logos/MB_Logo.png{height="28px"}
-
-<div style="font-size:0.9rem; color:#666; margin-top:0.3rem;">
-Gefördert durch den Stifterverband und den Mercedes-Benz Fonds
-</div>
+logos/MB_Logo.png{height="30px"}
 
 # Berufsschul-Digi-Teams
 
-*Förderprogramm für digitale Kompetenzen in der beruflichen Lehrkräftebildung*
+<div style="font-size:1.15rem; color:#666;">
+Digitale Kompetenzen in der beruflichen Lehrkräftebildung
+</div>
 
 :::
 
