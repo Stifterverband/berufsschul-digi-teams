@@ -12,9 +12,9 @@ listing:
 
 <div align="center">
 
-<img src="logos/svlog.png" height="90">
+<img src="logos/svlog.png" height="90" style="margin-right:-20px;">
 &nbsp;&nbsp;&nbsp;
-<img src="logos/MB_Logo.png" height="50">
+<img src="logos/MB_Logo.png" height="40">
 
 </div>
 
