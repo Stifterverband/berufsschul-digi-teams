@@ -30,11 +30,8 @@ Die auf dieser Website vorgestellten Projekte sind Teil des Förderprogramms **B
 Auf den folgenden Seiten stellen die Projektteams ihre Ideen, Materialien, Erfahrungen und Ergebnisse vor. Gemeinsam mit Berufsschulen und Ausbildungsbetrieben entwickeln und erproben sie Konzepte, die angehende Berufsschullehrkräfte auf die Anforderungen einer zunehmend digital geprägten Arbeits- und Bildungswelt vorbereiten. Die Plattform lädt dazu ein, Einblicke in die Projekte zu gewinnen, Anregungen für die eigene Lehre mitzunehmen und den hochschulübergreifenden Austausch zu stärken.
 
 
-**Weitere Informationen:**
+## Weitere Informationen
 
-https://www.stifterverband.org/berufsschul-digi-teams
+- [Berufsschul-Digi-Teams beim Stifterverband](https://www.stifterverband.org/berufsschul-digi-teams)
+- [Allianz Lehrkräftebildung für die berufliche Bildung](https://www.zukunftsmission-bildung.de/lehrkraefte)
 
-https://www.zukunftsmission-bildung.de/lehrkraefte
-
-::: {#listings}
-:::
