@@ -12,7 +12,7 @@ listing:
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:2rem; margin-left:8%;">
 
-<img src="logos/svlog.png" width="110">
+<img src="logos/svlog.png", "logos/MB_Logo.png" width="110">
 
 <h1 style="margin:0;">Berufsschul-Digi-Teams</h1>
 
