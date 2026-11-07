@@ -12,9 +12,9 @@ listing:
 
 ::: {.text-center}
 
-logos/svlog.png{height="70px"}
+logos/svlog.png {height="70px"}
 &nbsp;&nbsp;&nbsp;
-logos/MB_Logo.png{height="30px"}
+logos/MB_Logo.png {height="30px"}
 
 # Berufsschul-Digi-Teams
 
