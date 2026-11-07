@@ -12,17 +12,21 @@ listing:
 
 ::: {.text-center}
 
-![](logos/svlog.png){height="75px"}
-![](logos/MB_Logo.png){height="35px"}
-
-*Förderprogramm des Stifterverbands und des Mercedes-Benz Fonds*
-
-
 # Berufsschul-Digi-Teams
 
-:::
+### Förderprogramm für digitale Kompetenzen in der beruflichen Lehrkräftebildung
 
-<br><br>
+<br>
+
+logos/svlog.png{height="55px"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+logos/MB_Logo.png{height="25px"}
+
+<div style="margin-top:0.5rem; color:#666; font-size:0.9rem;">
+Gefördert durch den Stifterverband und den Mercedes-Benz Fonds
+</div>
+
+:::
 
 Die auf dieser Website vorgestellten Projekte sind Teil des Förderprogramms **Berufsschul-Digi-Teams** des **Stifterverbands** und des **Mercedes-Benz Fonds**. Mit einem Gesamtvolumen von über 1,25 Millionen Euro werden bis 2027 jährlich fünf Hochschulprojekte mit jeweils 50.000 Euro gefördert. Ziel des Programms ist es, digitale Kompetenzen und innovative Lehr-/Lernangebote dauerhaft in der beruflichen Lehrkräftebildung zu verankern.
 
