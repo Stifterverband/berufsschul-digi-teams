@@ -2,7 +2,7 @@
 title: ""
 listing:
   contents: posts
-  sort: "author"
+  sort: author
   type: grid
   categories: true
   fields: [title, author, categories, image]
@@ -10,22 +10,23 @@ listing:
   page-size: 30
 ---
 
-<div style="text-align:center; margin-bottom:4rem;">
+<div style="text-align:center; margin-bottom:6rem;">
 
   <div style="display:flex; justify-content:center; align-items:center; gap:30px;">
-    <img src="logos/svlog.png" height="80">
-    <img src="logos/MB_Logo.png" height="45">
+    <img src="logos/svlog.png" height="75">
+    <img src="logos/MB_Logo.png" height="35">
   </div>
 
-  <p style="margin-top:0.5rem; color:#666; font-size:0.9rem;">
+  <p style="margin-top:0.75rem; color:#666; font-size:0.95rem;">
     Förderprogramm des Stifterverbands und des Mercedes-Benz Fonds
   </p>
 
   <h1 style="
-    margin-top:1.5rem;
+    margin-top:1.75rem;
     margin-bottom:0;
     font-size:3.75rem;
     font-weight:700;
+    line-height:1.1;
   ">
     Berufsschul-Digi-Teams
   </h1>
